@@ -1,0 +1,13 @@
+@import "@splidejs/react-splide/css";
+
+.splide__pagination {
+  @apply absolute left-[14rem] bg-newwhite-500/80 bottom-0 p-2;
+}
+
+.splide__pagination__page {
+  @apply bg-newgray-700 opacity-50;
+}
+
+.splide__pagination__page.is-active {
+  @apply bg-newgolden opacity-100 ring-1 ring-offset-1 ring-newgolden;
+}

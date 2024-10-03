@@ -1,0 +1,26 @@
+@import url("https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100..900;1,100..900&display=swap");
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.header-option {
+  @apply font-poppins font-medium;
+}
+
+.footer-social-link {
+  @apply p-2 m-2 border cursor-pointer shadow-md rounded-full;
+}
+
+.bg-login {
+  @apply bg-loginImage bg-no-repeat bg-center bg-cover;
+}
+
+.bg-pageTopSection {
+  @apply bg-pageTopSectionImage bg-no-repeat bg-center bg-cover;
+}
+
+.bg-homeTopSection {
+  @apply bg-homeTopSectionImage bg-cover bg-no-repeat bg-center;
+}

@@ -1,0 +1,2048 @@
+{
+  "products": [
+    {
+      "id": "1",
+      "sku": "531871",
+      "title": "3 Seater Double Sofa Bed Keva Genoa Blue",
+      "category": "Couches",
+      "tags": ["Sofa bed", "Living room", "Bedroom"],
+      "normalPrice": 3199.99,
+      "salePrice": 1844.98,
+      "discountPercentage": 0.42,
+      "new": true,
+      "description": {
+        "short": "Do you have any doubts that a piece of furniture like the Genoa Sofa bed is capable of giving a new look to your space?",
+        "long": "Do you have any doubts that a piece of furniture like the Genoa Sofa bed is capable of giving a new look to your space? Whether in the Living room, in the office or in the Bedroom, it adapts very well to your needs and also adds a charming touch to the environment. The cozy structure combined with the stick feet is great for sitting, watching TV, reading a book or relaxing on a daily basis. But if you need to take a nap or have visitors at home, just open the zippers that hold the feet to transform it into a bed. Show, right? Oh, it even has this beautiful blue color to be the finishing touch to the decoration."
+      },
+      "colors": [
+        {
+          "name": "Blue",
+          "hex": "#0000FF"
+        }
+      ],
+      "sizes": ["M", "L"],
+      "rating": 4.9,
+      "images": {
+        "mainImage": "https://static.mobly.com.br/p/Keva-SofC3A1-Cama-2-Lugares-Casal-GC3A9nova-Azul-3355-916355-1.jpg",
+        "gallery": [
+          "https://static.mobly.com.br/p/Keva-SofC3A1-Cama-2-Lugares-Casal-GC3A9nova-Azul-3355-916355-2.jpg",
+          "https://static.mobly.com.br/p/Keva-SofC3A1-Cama-2-Lugares-Casal-GC3A9nova-Azul-3355-916355-3.jpg",
+          "https://static.mobly.com.br/p/Keva-SofC3A1-Cama-2-Lugares-Casal-GC3A9nova-Azul-3355-916355-4.jpg",
+          "https://static.mobly.com.br/p/Keva-SofC3A1-Cama-2-Lugares-Casal-GC3A9nova-Azul-3355-916355-5.jpg"
+        ]
+      }
+    },
+    {
+      "id": "2",
+      "sku": "204089",
+      "title": "3 Seater Double Seats Premium Sofa Bed Suede Gray",
+      "category": "Couches",
+      "tags": ["Sofa bed", "Living room", "Bedroom"],
+      "normalPrice": 1705.99,
+      "salePrice": 1172.66,
+      "discountPercentage": 0.31,
+      "new": false,
+      "description": {
+        "short": "The Sofa bed Premium will renew your restful days",
+        "long": "With a look that promises to bring sophistication and warmth to your home, the Sofa bed Premium will renew your days of rest, as well as being a piece worthy of praise in any decor. Inside, it has reforestation wood in its composition, a great feature for daily use. On the outside, suede makes everyone want to stay in it without having to go out, as well as enhancing your leisure time in front of the television. Ah, to top it all off, it quickly transforms from a sofa to a bed to adapt to your routine and needs. Many benefits for a home that deserves to be equally incredible ;)"
+      },
+      "colors": [
+        {
+          "name": "Gray",
+          "hex": "#808080"
+        }
+      ],
+      "sizes": ["L"],
+      "rating": 3.2,
+      "images": {
+        "mainImage": "https://static.mobly.com.br/p/Mobly-SofC3A1-Cama-3-Lugares-Casal-Premium-Suede-Cinza-9969-770002-1.jpg",
+        "gallery": [
+          "https://static.mobly.com.br/p/Mobly-SofC3A1-Cama-3-Lugares-Casal-Premium-Suede-Cinza-8175-770002-2.jpg",
+          "https://static.mobly.com.br/p/Mobly-SofC3A1-Cama-3-Lugares-Casal-Premium-Suede-Cinza-8175-770002-3.jpg",
+          "https://static.mobly.com.br/p/Mobly-SofC3A1-Cama-3-Lugares-Casal-Premium-Suede-Cinza-9969-770002-4.jpg",
+          "https://static.mobly.com.br/p/Mobly-SofC3A1-Cama-3-Lugares-Casal-Premium-Suede-Cinza-9969-770002-5.jpg"
+        ]
+      }
+    },
+    {
+      "id": "3",
+      "sku": "531875",
+      "title": "3 Seater Double Corsica Sofa Bed Dark Gray",
+      "category": "Couches",
+      "tags": ["Sofa bed", "Living room", "Bedroom"],
+      "normalPrice": 3119.99,
+      "salePrice": 1619.98,
+      "discountPercentage": 0.48,
+      "new": false,
+      "description": {
+        "short": "A simple piece of furniture like the Corsica Sofa bed has the ability to revamp your space",
+        "long": "A simple piece of furniture like the Corsica Sofa bed has the ability to revamp your space, regardless of where you choose to place it. Combining an elegant structure with stick legs, it is suitable for those leisure moments in front of the television or reading a book, as well as for accommodating your guests who will spend the night at your home. To do this, just open the zippers that hold the feet to transform it into a bed. Too much, right? Ah, the gray color and the covering details only add more charm to your home style."
+      },
+      "colors": [
+        {
+          "name": "Gray",
+          "hex": "#808080"
+        }
+      ],
+      "sizes": ["S", "M"],
+      "rating": 4.4,
+      "images": {
+        "mainImage": "https://static.mobly.com.br/p/Keva-SofC3A1-Cama-3-Lugares-Casal-CC3B3rsega-Cinza-Escuro-5151-326355-1.jpg",
+        "gallery": [
+          "https://static.mobly.com.br/p/Keva-SofC3A1-Cama-3-Lugares-Casal-CC3B3rsega-Cinza-Escuro-5151-326355-2.jpg",
+          "https://static.mobly.com.br/p/Keva-SofC3A1-Cama-3-Lugares-Casal-CC3B3rsega-Cinza-Escuro-5151-326355-3.jpg",
+          "https://static.mobly.com.br/p/Keva-SofC3A1-Cama-3-Lugares-Casal-CC3B3rsega-Cinza-Escuro-5151-326355-4.jpg",
+          "https://static.mobly.com.br/p/Keva-SofC3A1-Cama-3-Lugares-Casal-CC3B3rsega-Cinza-Escuro-5151-326355-5.jpg"
+        ]
+      }
+    },
+    {
+      "id": "4",
+      "sku": "531875",
+      "title": "3 Seater Double Venice Sofa Bed Yellow",
+      "category": "Couches",
+      "tags": ["Sofa bed", "Living room", "Bedroom"],
+      "normalPrice": 4229.99,
+      "salePrice": 1781.98,
+      "discountPercentage": 0.57,
+      "new": false,
+      "description": {
+        "short": "The Venice Sofa bed is also a great ally for decorating rooms!",
+        "long": "A practical way to increase the receptivity of the home, the Venice Sofa bed is also a great ally for decorating rooms! Welcome from the living room to the office, it has a design with simple lines and slightly angled feet, not to mention the striking color that is perfect for composing the space and making it the star of the room - oh, the stitched finish of the seat and back is another elegant highlight worth mentioning. To bring comfort to your routine or welcome friends over the weekend, it accompanies that movie or chat session when in its original position and, with small changes to the structure, it becomes an extra bed for guests who stay extra. All this usability will make your home a safe haven where you can relax and recharge for the next day - features that everyone wants, right?"
+      },
+      "colors": [
+        {
+          "name": "Yellow",
+          "hex": "#FFFF00"
+        }
+      ],
+      "sizes": ["L"],
+      "rating": 4.7,
+      "images": {
+        "mainImage": "https://static.mobly.com.br/p/Keva-SofC3A1-Cama-3-Lugares-Casal-Venice-Amarelo-1199-739396-1.jpg",
+        "gallery": [
+          "https://static.mobly.com.br/p/Keva-SofC3A1-Cama-3-Lugares-Casal-Venice-Amarelo-1199-739396-2.jpg",
+          "https://static.mobly.com.br/p/Keva-SofC3A1-Cama-3-Lugares-Casal-Venice-Amarelo-1199-739396-3.jpg",
+          "https://static.mobly.com.br/p/Keva-SofC3A1-Cama-3-Lugares-Casal-Venice-Amarelo-1199-739396-4.jpg",
+          "https://static.mobly.com.br/p/Keva-SofC3A1-Cama-3-Lugares-Casal-Venice-Amarelo-1199-739396-5.jpg"
+        ]
+      }
+    },
+    {
+      "id": "5",
+      "sku": "1147903",
+      "title": "Retractable Sofa Without Box 3 seats Solomons Linen Beige",
+      "category": "Couches",
+      "tags": ["Retractable sofa", "Living room"],
+      "normalPrice": 4409.99,
+      "salePrice": 2800.74,
+      "discountPercentage": 0.36,
+      "new": false,
+      "description": {
+        "short": "Solomons Retractable Sofa without Box has everything to make your home more comfortable.",
+        "long": "Cozy and welcoming, the Solomons Boxless Retractable Sofa has everything to make your home more comfortable. Structured in resistant materials, it has a seat and back with foam padding and loose silicone feather cushions, providing great well-being and comfort to whoever is using it. In addition to being cozy and also transforming into a sofa bed, the furniture is ideal for smaller environments, as it is the type without a box, which optimizes the space available in the room and frees up more circulation area. All of this is finished off with a clean and elegant design that highlights the timeless color and will certainly leave your space impeccable, worthy of lots of compliments."
+      },
+      "colors": [
+        {
+          "name": "Beige",
+          "hex": "#FFEBCD"
+        }
+      ],
+      "sizes": ["L", "XXL"],
+      "rating": 4.6,
+      "images": {
+        "mainImage": "https://static.mobly.com.br/p/Mobly-SofC3A1-RetrC3A1til-Sem-Caixa-3-lugares-Solomons-Linho-Bege-2636-3691811-1.jpg",
+        "gallery": [
+          "https://static.mobly.com.br/p/Mobly-SofC3A1-RetrC3A1til-Sem-Caixa-3-lugares-Solomons-Linho-Bege-2639-3691811-2.jpg",
+          "https://static.mobly.com.br/p/Mobly-SofC3A1-RetrC3A1til-Sem-Caixa-3-lugares-Solomons-Linho-Bege-2643-3691811-3.jpg",
+          "https://static.mobly.com.br/p/Mobly-SofC3A1-RetrC3A1til-Sem-Caixa-3-lugares-Solomons-Linho-Bege-2645-3691811-4.jpg",
+          "https://static.mobly.com.br/p/Mobly-SofC3A1-RetrC3A1til-Sem-Caixa-3-lugares-Solomons-Linho-Bege-2647-3691811-5.jpg"
+        ]
+      }
+    },
+    {
+      "id": "6",
+      "sku": "1147875",
+      "title": "3 Seater Retractable and Reclining Sofa Lupine Cream Linen",
+      "category": "Couches",
+      "tags": ["Retractable sofa", "Living room"],
+      "normalPrice": 3749.99,
+      "salePrice": 2456.96,
+      "discountPercentage": 0.34,
+      "new": true,
+      "description": {
+        "short": "Lupine sofa is the best combination of comfort and beauty",
+        "long": "With countless structural advantages and an eye-catching design, the Lupine Sofa is the best combination of comfort and beauty. The first highlight is the casters, which make the piece easily adaptable to the space and make reorganizing the Living room a simple task. The combination of foam with great density + retractable seat and reclining back offers the perfect balance for those moments when you need a more complete rest or when you are receiving visitors. With an elegant look that integrates harmoniously with the room's decor, it is also reinforced by the solid wood structure, which adds good durability and perfect security to the routine - this way, you can always count on a cozy and well-furnished corner to spend spend relaxing moments."
+      },
+      "colors": [
+        {
+          "name": "Crude",
+          "hex": "#F5F5DC"
+        }
+      ],
+      "sizes": ["XXL"],
+      "rating": 4.9,
+      "images": {
+        "mainImage": "https://static.mobly.com.br/p/Mobly-SofC3A1-3-Lugares-RetrC3A1til-e-ReclinC3A1vel-Lupin-Linho-Cru-5088-5391811-1.jpg",
+        "gallery": [
+          "https://static.mobly.com.br/p/Mobly-SofC3A1-3-Lugares-RetrC3A1til-e-ReclinC3A1vel-Lupin-Linho-Cru-4214-5391811-2.jpg",
+          "https://static.mobly.com.br/p/Mobly-SofC3A1-3-Lugares-RetrC3A1til-e-ReclinC3A1vel-Lupin-Linho-Cru-4215-5391811-3.jpg",
+          "https://static.mobly.com.br/p/Mobly-SofC3A1-3-Lugares-RetrC3A1til-e-ReclinC3A1vel-Lupin-Linho-Cru-5088-5391811-4.jpg",
+          "https://static.mobly.com.br/p/Mobly-SofC3A1-3-Lugares-RetrC3A1til-e-ReclinC3A1vel-Lupin-Linho-Cru-5088-5391811-5.jpg"
+        ]
+      }
+    },
+    {
+      "id": "7",
+      "sku": "785346",
+      "title": "Belgrade 3 Seater Sofa with Right Chaise Gray Linen 230 cm",
+      "category": "Couches",
+      "tags": ["Retractable sofa", "Living room"],
+      "normalPrice": 4049.99,
+      "salePrice": 2807.96,
+      "discountPercentage": 0.3,
+      "new": false,
+      "description": {
+        "short": "Welcome with warmth and good taste",
+        "long": "Receiving with warmth and good taste will be an easy task with the presence of the Belgrade Sofa in your home! Structured in reforested eucalyptus wood, it has elastic straps and springs in the composition, which guarantees a firmer and more pleasant piece to use. On the outside, the furniture is covered in linen, a material that adds aesthetic value to its decoration. Ah, we can't help but comment on the chaise, this part of the sofa that has the greatest depth and is perfect for moments of stretching your legs and relaxing. Only benefits for your sweet home, right? ;)"
+      },
+      "colors": [
+        {
+          "name": "Gray",
+          "hex": "#808080"
+        }
+      ],
+      "sizes": ["L"],
+      "rating": 5,
+      "images": {
+        "mainImage": "https://static.mobly.com.br/p/Mobly-SofC3A1-3-Lugares-Belgrado-com-Chaise-Direito-Linho-Cinza-230-cm-0955-758318-1.jpg",
+        "gallery": [
+          "https://static.mobly.com.br/p/Mobly-SofC3A1-3-Lugares-Belgrado-com-Chaise-Direito-Linho-Cinza-230-cm-7065-758318-2.jpg",
+          "https://static.mobly.com.br/p/Mobly-SofC3A1-3-Lugares-Belgrado-com-Chaise-Direito-Linho-Cinza-230-cm-7071-758318-3.jpg",
+          "https://static.mobly.com.br/p/Mobly-SofC3A1-3-Lugares-Belgrado-com-Chaise-Direito-Linho-Cinza-230-cm-0955-758318-4.jpg",
+          "https://static.mobly.com.br/p/Mobly-SofC3A1-3-Lugares-Belgrado-com-Chaise-Direito-Linho-Cinza-230-cm-0955-758318-5.jpg"
+        ]
+      }
+    },
+    {
+      "id": "8",
+      "sku": "623883",
+      "title": "3-Seater Retractable and Reclining Sofa Blenda II Suede Graphite",
+      "category": "Couches",
+      "tags": ["Retractable sofa", "Living room"],
+      "normalPrice": 2092.99,
+      "salePrice": 1421.96,
+      "discountPercentage": 0.32,
+      "new": false,
+      "description": {
+        "short": "To promote comfort and well-being in your favorite corners",
+        "long": "To promote comfort and well-being in your favorite corners, count on the pillows that hug the body and the soft suede that only the Blenda Sofa can offer. Thanks to the rectilinear design and timeless color, it is perfect for bringing the missing charm to your home-style while accommodating family and friends for that pleasant conversation in the late afternoon or movie session on the weekend. To improve, it also has a retractable seat, which helps provide greater relaxation, and a reclining backrest that makes that after-lunch nap much more comfortable."
+      },
+      "colors": [
+        {
+          "name": "Gray",
+          "hex": "#808080"
+        }
+      ],
+      "sizes": ["M"],
+      "rating": 3.9,
+      "images": {
+        "mainImage": "https://static.mobly.com.br/p/Mobly-SofC3A1-RetrC3A1til-e-ReclinC3A1vel-3-Lugares-Blenda-II-Suede-Grafite-2794-966646-1.jpg",
+        "gallery": [
+          "https://static.mobly.com.br/p/Mobly-SofC3A1-RetrC3A1til-e-ReclinC3A1vel-3-Lugares-Blenda-II-Suede-Grafite-2795-966646-2.jpg",
+          "https://static.mobly.com.br/p/Mobly-SofC3A1-RetrC3A1til-e-ReclinC3A1vel-3-Lugares-Blenda-II-Suede-Grafite-2796-966646-3.jpg",
+          "https://static.mobly.com.br/p/Mobly-SofC3A1-RetrC3A1til-e-ReclinC3A1vel-3-Lugares-Blenda-II-Suede-Grafite-2797-966646-4.jpg",
+          "https://static.mobly.com.br/p/Mobly-SofC3A1-RetrC3A1til-e-ReclinC3A1vel-3-Lugares-Blenda-II-Suede-Grafite-2798-966646-5.jpg"
+        ]
+      }
+    },
+    {
+      "id": "9",
+      "sku": "813087",
+      "title": "3 Seater Retractable Sofa Berna Linen Graphite 180 cm",
+      "category": "Couches",
+      "tags": ["Retractable sofa", "Living room"],
+      "normalPrice": 1749.99,
+      "salePrice": 1295.96,
+      "discountPercentage": 0.25,
+      "new": false,
+      "description": {
+        "short": "Whether to receive visitors or stretch your legs during rest periods, it will be indispensable in your routine :)",
+        "long": "More cozy moments and a complete living room await you with the presence of Sofá Berna! Structured in eucalyptus wood, which is a great reinforcement for everyday use, the piece has elastic straps in the composition, a fixed backrest in silicone fiber and a retractable seat in D26 foam. On the outside, the furniture is covered in linen with a color that adds beauty and good taste to the decoration of your space. Whether to receive visitors or stretch your legs during rest periods, it will be indispensable in your routine :)"
+      },
+      "colors": [
+        {
+          "name": "Graphite",
+          "hex": "#4F4F4F"
+        }
+      ],
+      "sizes": ["M", "L"],
+      "rating": 4.5,
+      "images": {
+        "mainImage": "https://static.mobly.com.br/p/Mobly-SofC3A1-3-Lugares-RetrC3A1til-Berna-Linho-Grafite-180-cm-5086-465248-1.jpg",
+        "gallery": [
+          "https://static.mobly.com.br/p/Mobly-SofC3A1-3-Lugares-RetrC3A1til-Berna-Linho-Grafite-180-cm-5086-465248-2.jpg",
+          "https://static.mobly.com.br/p/Mobly-SofC3A1-3-Lugares-RetrC3A1til-Berna-Linho-Grafite-180-cm-5086-465248-3.jpg",
+          "https://static.mobly.com.br/p/Mobly-SofC3A1-3-Lugares-RetrC3A1til-Berna-Linho-Grafite-180-cm-5086-465248-4.jpg",
+          "https://static.mobly.com.br/p/Mobly-SofC3A1-3-Lugares-RetrC3A1til-Berna-Linho-Grafite-180-cm-5086-465248-5.jpg"
+        ]
+      }
+    },
+    {
+      "id": "10",
+      "sku": "1147877",
+      "title": "3 Seater Retractable and Reclining Sofa Lupine Gray Linen",
+      "category": "Couches",
+      "tags": ["Retractable sofa", "Living room"],
+      "normalPrice": 3749.99,
+      "salePrice": 2447.96,
+      "discountPercentage": 0.34,
+      "new": true,
+      "description": {
+        "short": "Lupine sofa is the best combination of comfort and beauty.",
+        "long": "With countless structural advantages and an eye-catching design, the Lupine Sofa is the best combination of comfort and beauty. The first highlight is the casters, which make the piece easily adaptable to the space and make reorganizing the Living room a simple task. The combination of foam with great density + retractable seat and reclining back offers the perfect balance for those moments when you need a more complete rest or when you are receiving visitors. With an elegant look that integrates harmoniously with the room's decor, it is also reinforced by the solid wood structure, which adds good durability and perfect security to the routine - this way, you can always count on a cozy and well-furnished corner to spend spend relaxing moments."
+      },
+      "colors": [
+        {
+          "name": "Gray",
+          "hex": "#808080"
+        }
+      ],
+      "sizes": ["XXL"],
+      "rating": 4.5,
+      "images": {
+        "mainImage": "https://static.mobly.com.br/p/Mobly-SofC3A1-3-Lugares-RetrC3A1til-e-ReclinC3A1vel-Lupin-Linho-Cinza-5257-7391811-1.jpg",
+        "gallery": [
+          "https://static.mobly.com.br/p/Mobly-SofC3A1-3-Lugares-RetrC3A1til-e-ReclinC3A1vel-Lupin-Linho-Cinza-4193-7391811-2.jpg",
+          "https://static.mobly.com.br/p/Mobly-SofC3A1-3-Lugares-RetrC3A1til-e-ReclinC3A1vel-Lupin-Linho-Cinza-4194-7391811-3.jpg",
+          "https://static.mobly.com.br/p/Mobly-SofC3A1-3-Lugares-RetrC3A1til-e-ReclinC3A1vel-Lupin-Linho-Cinza-5257-7391811-4.jpg",
+          "https://static.mobly.com.br/p/Mobly-SofC3A1-3-Lugares-RetrC3A1til-e-ReclinC3A1vel-Lupin-Linho-Cinza-5257-7391811-5.jpg"
+        ]
+      }
+    },
+    {
+      "id": "11",
+      "sku": "531871",
+      "title": "Sofa bed 2 Seater Double Genoa Blue",
+      "category": "Couches",
+      "tags": ["Sofa bed", "Living room", "Bedroom"],
+      "normalPrice": 3199.99,
+      "salePrice": 1844.98,
+      "discountPercentage": 0.42,
+      "new": true,
+      "description": {
+        "short": "Do you have any doubts that a piece of furniture like the Genoa Sofa bed is capable of giving a new look to your space?",
+        "long": "Do you have any doubts that a piece of furniture like the Genoa Sofa bed is capable of giving a new look to your space? Whether in the Living room, office or Bedroom, it adapts very well to your needs and also adds a touch charming for the environment. The cozy structure combined with the wooden legs is great for sitting, watching television, reading a book or relaxing on a daily basis. But if you need to take a nap or if you are having guests at home, just open it. the zippers that hold the feet to transform it into a bed. Show, right? Oh, it even has this beautiful blue color to be the finishing touch of the decoration."
+      },
+      "colors": [
+        {
+          "name": "Blue",
+          "hex": "#0000FF"
+        }
+      ],
+      "sizes": ["M", "L"],
+      "rating": 4.9,
+      "images": {
+        "mainImage": "https://static.mobly.com.br/p/Keva-SofC3A1-Cama-2-Lugares-Casal-GC3A9nova-Azul-3355-916355-1.jpg",
+        "gallery": [
+          "https://static.mobly.com.br/p/Keva-SofC3A1-Cama-2-Lugares-Casal-GC3A9nova-Azul-3355-916355-2.jpg",
+          "https://static.mobly.com.br/p/Keva-SofC3A1-Cama-2-Lugares-Casal-GC3A9nova-Azul-3355-916355-3.jpg",
+          "https://static.mobly.com.br/p/Keva-SofC3A1-Cama-2-Lugares-Casal-GC3A9nova-Azul-3355-916355-4.jpg",
+          "https://static.mobly.com.br/p/Keva-SofC3A1-Cama-2-Lugares-Casal-GC3A9nova-Azul-3355-916355-5.jpg"
+        ]
+      }
+    },
+    {
+      "id": "12",
+      "sku": "204089",
+      "title": "Sofa bed 3 Seater Double Premium Suede Gray",
+      "category": "Couches",
+      "tags": ["Sofa bed", "Living room", "Bedroom"],
+      "normalPrice": 1705.99,
+      "salePrice": 1172.66,
+      "discountPercentage": 0.31,
+      "new": true,
+      "description": {
+        "short": "The Sofa bed Premium will renew your restful days",
+        "long": "With a look that promises to bring sophistication and warmth to your home, the Sofa bed Premium will renew your days of rest, as well as being a piece worthy of praise in any decor. Inside, it has reforestation wood in its composition, a great feature for daily use. On the outside, suede makes everyone want to stay in it without having to go out, as well as enhancing your leisure time in front of the television. Ah, to top it all off, it quickly transforms from a sofa to a bed to adapt to your routine and needs. Many benefits for a home that deserves to be equally incredible ;)"
+      },
+      "colors": [
+        {
+          "name": "Gray",
+          "hex": "#808080"
+        }
+      ],
+      "sizes": ["L"],
+      "rating": 3.2,
+      "images": {
+        "mainImage": "https://static.mobly.com.br/p/Mobly-SofC3A1-Cama-3-Lugares-Casal-Premium-Suede-Cinza-9969-770002-1.jpg",
+        "gallery": [
+          "https://static.mobly.com.br/p/Mobly-SofC3A1-Cama-3-Lugares-Casal-Premium-Suede-Cinza-8175-770002-2.jpg",
+          "https://static.mobly.com.br/p/Mobly-SofC3A1-Cama-3-Lugares-Casal-Premium-Suede-Cinza-9969-770002-5.jpg",
+          "https://static.mobly.com.br/p/Mobly-SofC3A1-Cama-3-Lugares-Casal-Premium-Suede-Cinza-9969-770002-8.jpg"
+        ]
+      }
+    },
+    {
+      "id": "13",
+      "sku": "531875",
+      "title": "Sofa bed 3 Seater Double Corsica Dark Gray",
+      "category": "Couches",
+      "tags": ["Sofa bed", "Living room", "Bedroom"],
+      "normalPrice": 3119.99,
+      "salePrice": 1619.98,
+      "discountPercentage": 0.48,
+      "new": true,
+      "description": {
+        "short": "A simple piece of furniture like the Corsica Sofa bed has the ability to revamp your space",
+        "long": "A simple piece of furniture like the Corsica Sofa bed has the ability to revamp your space, regardless of where you choose to place it. Combining an elegant structure with stick legs, it is suitable for those leisure moments in front of the television or reading a book, as well as for accommodating your guests who will spend the night at your home. To do this, just open the zippers that hold the feet to transform it into a bed. Too much, right? Ah, the gray color and the covering details only add more charm to your home style."
+      },
+      "colors": [
+        {
+          "name": "Gray",
+          "hex": "#808080"
+        }
+      ],
+      "sizes": ["S", "M"],
+      "rating": 4.4,
+      "images": {
+        "mainImage": "https://static.mobly.com.br/p/Keva-SofC3A1-Cama-3-Lugares-Casal-CC3B3rsega-Cinza-Escuro-5151-326355-1.jpg",
+        "gallery": [
+          "https://static.mobly.com.br/p/Keva-SofC3A1-Cama-3-Lugares-Casal-CC3B3rsega-Cinza-Escuro-5151-326355-2.jpg",
+          "https://static.mobly.com.br/p/Keva-SofC3A1-Cama-3-Lugares-Casal-CC3B3rsega-Cinza-Escuro-5151-326355-6.jpg",
+          "https://static.mobly.com.br/p/Keva-SofC3A1-Cama-3-Lugares-Casal-CC3B3rsega-Cinza-Escuro-5151-326355-10.jpg",
+          "https://static.mobly.com.br/p/Keva-SofC3A1-Cama-3-Lugares-Casal-CC3B3rsega-Cinza-Escuro-5151-326355-5.jpg"
+        ]
+      }
+    },
+    {
+      "id": "14",
+      "sku": "531875",
+      "title": "Sofa bed 3 Seater Double Venice Yellow",
+      "category": "Couches",
+      "tags": ["Sofa bed", "Living room", "Bedroom"],
+      "normalPrice": 4229.99,
+      "salePrice": 1781.98,
+      "discountPercentage": 0.57,
+      "new": true,
+      "description": {
+        "short": "The Venice Sofa bed is also a great ally for decorating rooms!",
+        "long": "A practical way to increase the receptivity of the home, the Venice Sofa bed is also a great ally for decorating rooms! Welcome from the living room to the office, it has a design with simple lines and slightly angled feet, not to mention the striking color that is perfect for composing the space and making it the star of the room - oh, the stitched finish of the seat and back is another elegant highlight worth mentioning. To bring comfort to your routine or welcome friends over the weekend, it accompanies that movie or chat session when in its original position and, with small changes to the structure, it becomes an extra bed for guests who stay extra. All this usability will make your home a safe haven where you can relax and recharge for the next day - features that everyone wants, right?"
+      },
+      "colors": [
+        {
+          "name": "Yellow",
+          "hex": "#FFFF00"
+        }
+      ],
+      "sizes": ["L"],
+      "rating": 4.7,
+      "images": {
+        "mainImage": "https://static.mobly.com.br/p/Keva-SofC3A1-Cama-3-Lugares-Casal-Venice-Amarelo-1199-739396-1.jpg",
+        "gallery": [
+          "https://static.mobly.com.br/p/Keva-SofC3A1-Cama-3-Lugares-Casal-Venice-Amarelo-1199-739396-2.jpg",
+          "https://static.mobly.com.br/p/Keva-SofC3A1-Cama-3-Lugares-Casal-Venice-Amarelo-1199-739396-6.jpg",
+          "https://static.mobly.com.br/p/Keva-SofC3A1-Cama-3-Lugares-Casal-Venice-Amarelo-1199-739396-7.jpg"
+        ]
+      }
+    },
+    {
+      "id": "15",
+      "sku": "1147903",
+      "title": "Retractable Sofa Without Box 3 seats Solomons Linen Beige",
+      "category": "Couches",
+      "tags": ["Retractable sofa", "Living room"],
+      "normalPrice": 4409.99,
+      "salePrice": 2800.74,
+      "discountPercentage": 0.36,
+      "new": true,
+      "description": {
+        "short": "Solomons Retractable Sofa without Box has everything to make your home more comfortable.",
+        "long": "Cozy and welcoming, the Solomons Boxless Retractable Sofa has everything to make your home more comfortable. Structured in resistant materials, it has a seat and back with foam padding and loose silicone feather cushions, providing great well-being and comfort to whoever is using it. In addition to being cozy and also transforming into a sofa bed, the furniture is ideal for smaller environments, as it is the type without a box, which optimizes the space available in the room and frees up more circulation area. All of this is finished off with a clean and elegant design that highlights the timeless color and will certainly leave your space impeccable, worthy of lots of compliments."
+      },
+      "colors": [
+        {
+          "name": "Beige",
+          "hex": "#FFEBCD"
+        }
+      ],
+      "sizes": ["L", "XXL"],
+      "rating": 4.6,
+      "images": {
+        "mainImage": "https://static.mobly.com.br/p/Mobly-SofC3A1-RetrC3A1til-Sem-Caixa-3-lugares-Solomons-Linho-Bege-2636-3691811-1.jpg",
+        "gallery": [
+          "https://static.mobly.com.br/p/Mobly-SofC3A1-RetrC3A1til-Sem-Caixa-3-lugares-Solomons-Linho-Bege-2639-3691811-2.jpg",
+          "https://static.mobly.com.br/p/Mobly-SofC3A1-RetrC3A1til-Sem-Caixa-3-lugares-Solomons-Linho-Bege-2645-3691811-4.jpg",
+          "https://static.mobly.com.br/p/Mobly-SofC3A1-RetrC3A1til-Sem-Caixa-3-lugares-Solomons-Linho-Bege-2647-3691811-5.jpg",
+          "https://static.mobly.com.br/p/Mobly-SofC3A1-RetrC3A1til-Sem-Caixa-3-lugares-Solomons-Linho-Bege-2649-3691811-6.jpg"
+        ]
+      }
+    },
+    {
+      "id": "16",
+      "sku": "1147875",
+      "title": "3 Seater Retractable and Reclining Sofa Lupine Raw Linen",
+      "category": "Couches",
+      "tags": ["Retractable sofa", "Living room"],
+      "normalPrice": 3749.99,
+      "salePrice": 2456.96,
+      "discountPercentage": 0.34,
+      "new": true,
+      "description": {
+        "short": "Lupine sofa is the best combination of comfort and beauty.",
+        "long": "With countless structural advantages and an eye-catching design, the Lupine Sofa is the best combination of comfort and beauty. The first highlight is the casters, which make the piece easily adaptable to the space and make reorganizing the Living room a simple task. The combination of foam with great density + retractable seat and reclining back offers the perfect balance for those moments when you need a more complete rest or when you are receiving visitors. With an elegant look that integrates harmoniously with the room's decor, it is also reinforced by the solid wood structure, which adds good durability and perfect security to the routine - this way, you can always count on a cozy and well-furnished corner to spend spend relaxing moments."
+      },
+      "colors": [
+        {
+          "name": "Crude",
+          "hex": "#F5F5DC"
+        }
+      ],
+      "sizes": ["XXL"],
+      "rating": 4.9,
+      "images": {
+        "mainImage": "https://static.mobly.com.br/p/Mobly-SofC3A1-3-Lugares-RetrC3A1til-e-ReclinC3A1vel-Lupin-Linho-Cru-5088-5391811-1.jpg",
+        "gallery": [
+          "https://static.mobly.com.br/p/Mobly-SofC3A1-3-Lugares-RetrC3A1til-e-ReclinC3A1vel-Lupin-Linho-Cru-4214-5391811-2.jpg",
+          "https://static.mobly.com.br/p/Mobly-SofC3A1-3-Lugares-RetrC3A1til-e-ReclinC3A1vel-Lupin-Linho-Cru-5088-5391811-5.jpg",
+          "https://static.mobly.com.br/p/Mobly-SofC3A1-3-Lugares-RetrC3A1til-e-ReclinC3A1vel-Lupin-Linho-Cru-5088-5391811-6.jpg",
+          "https://static.mobly.com.br/p/Mobly-SofC3A1-3-Lugares-RetrC3A1til-e-ReclinC3A1vel-Lupin-Linho-Cru-5088-5391811-7.jpg"
+        ]
+      }
+    },
+    {
+      "id": "17",
+      "sku": "785346",
+      "title": "Belgrade 3 Seater Sofa with Right Chaise Gray Linen 230 cm",
+      "category": "Couches",
+      "tags": ["Retractable sofa", "Living room"],
+      "normalPrice": 4049.99,
+      "salePrice": 2807.96,
+      "discountPercentage": 0.3,
+      "new": true,
+      "description": {
+        "short": "Welcome with warmth and good taste",
+        "long": "Welcome with warmth and good taste will be an easy task with the presence of the Belgrade Sofa in your home! Structured in reforested eucalyptus wood, it has elastic straps and springs in the composition, which guarantees a firmer and more pleasant piece to use. On the outside, the furniture is covered in linen, a material that adds aesthetic value to its decoration. Ah, we can't help but comment on the chaise, this part of the sofa that has the greatest depth and is perfect for moments of stretching your legs and relaxing. Only benefits for your sweet home, right? ;)"
+      },
+      "colors": [
+        {
+          "name": "Gray",
+          "hex": "#808080"
+        }
+      ],
+      "sizes": ["L"],
+      "rating": 5,
+      "images": {
+        "mainImage": "https://static.mobly.com.br/p/Mobly-SofC3A1-3-Lugares-Belgrado-com-Chaise-Direito-Linho-Cinza-230-cm-0955-758318-1.jpg",
+        "gallery": [
+          "https://static.mobly.com.br/p/Mobly-SofC3A1-3-Lugares-Belgrado-com-Chaise-Direito-Linho-Cinza-230-cm-7065-758318-2.jpg",
+          "https://static.mobly.com.br/p/Mobly-SofC3A1-3-Lugares-Belgrado-com-Chaise-Direito-Linho-Cinza-230-cm-0955-758318-5.jpg",
+          "https://static.mobly.com.br/p/Mobly-SofC3A1-3-Lugares-Belgrado-com-Chaise-Direito-Linho-Cinza-230-cm-0955-758318-6.jpg"
+        ]
+      }
+    },
+    {
+      "id": "18",
+      "sku": "623883",
+      "title": "3-Seater Retractable and Reclining Sofa Blenda II Suede Graphite",
+      "category": "Couches",
+      "tags": ["Retractable sofa", "Living room"],
+      "normalPrice": 2092.99,
+      "salePrice": 1421.96,
+      "discountPercentage": 0.32,
+      "new": true,
+      "description": {
+        "short": "To promote comfort and well-being in your favorite corners",
+        "long": "To promote comfort and well-being in your favorite corners, count on the pillows that hug the body and the soft suede that only the Blenda Sofa can offer. Thanks to the rectilinear design and timeless color, it is perfect for bringing the missing charm to your home-style while accommodating family and friends for that pleasant conversation in the late afternoon or movie session on the weekend. To improve, it also has a retractable seat, which helps provide greater relaxation, and a reclining backrest that makes that after-lunch nap much more comfortable."
+      },
+      "colors": [
+        {
+          "name": "Gray",
+          "hex": "#808080"
+        }
+      ],
+      "sizes": ["M"],
+      "rating": 3.9,
+      "images": {
+        "mainImage": "https://static.mobly.com.br/p/Mobly-SofC3A1-RetrC3A1til-e-ReclinC3A1vel-3-Lugares-Blenda-II-Suede-Grafite-2794-966646-1.jpg",
+        "gallery": [
+          "https://static.mobly.com.br/p/Mobly-SofC3A1-RetrC3A1til-e-ReclinC3A1vel-3-Lugares-Blenda-II-Suede-Grafite-2796-966646-3.jpg",
+          "https://static.mobly.com.br/p/Mobly-SofC3A1-RetrC3A1til-e-ReclinC3A1vel-3-Lugares-Blenda-II-Suede-Grafite-2797-966646-4.jpg",
+          "https://static.mobly.com.br/p/Mobly-SofC3A1-RetrC3A1til-e-ReclinC3A1vel-3-Lugares-Blenda-II-Suede-Grafite-2800-966646-6.jpg"
+        ]
+      }
+    },
+    {
+      "id": "19",
+      "sku": "813087",
+      "title": "3 Seater Retractable Sofa Berna Linen Graphite 180 cm",
+      "category": "Couches",
+      "tags": ["Retractable sofa", "Living room"],
+      "normalPrice": 1749.99,
+      "salePrice": 1295.96,
+      "discountPercentage": 0.25,
+      "new": true,
+      "description": {
+        "short": "Whether to receive visitors or stretch your legs during rest periods, it will be indispensable in your routine :)",
+        "long": "More cozy moments and a complete living room await you with the presence of Sofá Berna! Structured in eucalyptus wood, which is a great reinforcement for everyday use, the piece has elastic straps in the composition, a fixed backrest in silicone fiber and a retractable seat in D26 foam. On the outside, the furniture is covered in linen with a color that adds beauty and good taste to the decoration of your space. Whether to receive visitors or stretch your legs during rest periods, it will be indispensable in your routine :)"
+      },
+      "colors": [
+        {
+          "name": "Graphite",
+          "hex": "#4F4F4F"
+        }
+      ],
+      "sizes": ["M", "L"],
+      "rating": 4.5,
+      "images": {
+        "mainImage": "https://static.mobly.com.br/p/Mobly-SofC3A1-3-Lugares-RetrC3A1til-Berna-Linho-Grafite-180-cm-5086-465248-1.jpg",
+        "gallery": [
+          "https://static.mobly.com.br/p/Mobly-SofC3A1-3-Lugares-RetrC3A1til-Berna-Linho-Grafite-180-cm-5086-465248-3.jpg",
+          "https://static.mobly.com.br/p/Mobly-SofC3A1-3-Lugares-RetrC3A1til-Berna-Linho-Grafite-180-cm-5086-465248-5.jpg",
+          "https://static.mobly.com.br/p/Mobly-SofC3A1-3-Lugares-RetrC3A1til-Berna-Linho-Grafite-180-cm-5086-465248-6.jpg",
+          "https://static.mobly.com.br/p/Mobly-SofC3A1-3-Lugares-RetrC3A1til-Berna-Linho-Grafite-180-cm-5086-465248-4.jpg"
+        ]
+      }
+    },
+    {
+      "id": "20",
+      "sku": "733023",
+      "title": "Rectangular Dining Table with Tália Off White and Imbuia Glass Top 120 cm",
+      "category": "Tables",
+      "tags": ["Dining Table", "Table", "Kitchen"],
+      "normalPrice": 2326.99,
+      "salePrice": 1394.94,
+      "discountPercentage": 0.4,
+      "new": false,
+      "description": {
+        "short": "The Tália Table is an essential item for the functioning of your routine, whether for daily meals or for moments of celebration between family and friends.",
+        "long": "The Tália Table is an essential item for the functioning of your routine, whether for daily meals or for moments of celebration between family and friends. With a glass top + elegant structure, it is simple to harmonize with other furniture essential to the environment and offers a great reinforcement when you need to arrange plates, cutlery and glasses to welcome everyone with great receptivity. Oh, the piece does not come with chairs and you must purchase them separately to ensure full use."
+      },
+      "colors": [
+        {
+          "name": "White",
+          "hex": "#FFFFFF"
+        }
+      ],
+      "sizes": ["M", "L"],
+      "rating": 5,
+      "images": {
+        "mainImage": "https://static.mobly.com.br/p/Mobillare-Mesa-de-Jantar-Retangular-com-Tampo-de-Vidro-TC3A1lia-Off-White-e-Imbuia-120-cm-3500-472067-1.jpg",
+        "gallery": [
+          "https://static.mobly.com.br/p/Mobillare-Mesa-de-Jantar-Retangular-com-Tampo-de-Vidro-TC3A1lia-Off-White-e-Imbuia-120-cm-3501-472067-2.jpg",
+          "https://static.mobly.com.br/p/Mobillare-Mesa-de-Jantar-Retangular-com-Tampo-de-Vidro-TC3A1lia-Off-White-e-Imbuia-120-cm-3502-472067-3.jpg"
+        ]
+      }
+    },
+    {
+      "id": "21",
+      "sku": "1089207",
+      "title": "Macaúba Rectangular Dining Table Solid Almond Wood 160 cm",
+      "category": "Tables",
+      "tags": ["Dining Table", "Table", "Kitchen"],
+      "normalPrice": 3099.99,
+      "salePrice": 1795.46,
+      "discountPercentage": 0.42,
+      "new": true,
+      "description": {
+        "short": "Inspired by the beauty and grandeur of the fruitful palm tree, the Macaúba Dining Table will be the protagonist in your Living room dining room.",
+        "long": "Inspired by the beauty and grandeur of the fruitful palm tree, the Macaúba Dining Table will be the protagonist in your Living room dining room. With a natural and robust appearance, the piece enhances the solid wood of the structure, which not only offers great stability but also guarantees greater durability - the varnish finish also protects against humidity and facilitates cleaning. Made in straight lines and thick wood, the table seats up to 6 and brings in its design that cozy air of a country house or beach, thus helping to make your corner of the city more welcoming, receptive and charming. Then just buy good Chairs or, if you prefer, also buy the bench from the same line :)"
+      },
+      "colors": [
+        {
+          "name": "Almond",
+          "hex": "#FFEBCD"
+        }
+      ],
+      "sizes": ["M", "L", "XXL"],
+      "rating": 4.5,
+      "images": {
+        "mainImage": "https://static.mobly.com.br/p/Keva-Mesa-de-Jantar-Retangular-MacaC3BAba-Madeira-MaciC3A7a-AmC3AAndoa-160-cm-9360-2432211-1.jpg",
+        "gallery": [
+          "https://static.mobly.com.br/p/Keva-Mesa-de-Jantar-Retangular-MacaC3BAba-Madeira-MaciC3A7a-AmC3AAndoa-160-cm-1955-2432211-2.jpg",
+          "https://static.mobly.com.br/p/Keva-Mesa-de-Jantar-Retangular-MacaC3BAba-Madeira-MaciC3A7a-AmC3AAndoa-160-cm-1955-2432211-4.jpg",
+          "https://static.mobly.com.br/p/Keva-Mesa-de-Jantar-Retangular-MacaC3BAba-Madeira-MaciC3A7a-AmC3AAndoa-160-cm-1940-2432211-9.jpg",
+          "https://static.mobly.com.br/p/Keva-Mesa-de-Jantar-Retangular-MacaC3BAba-Madeira-MaciC3A7a-AmC3AAndoa-160-cm-1940-2432211-7.jpg"
+        ]
+      }
+    },
+    {
+      "id": "22",
+      "sku": "718045",
+      "title": "Round Dining Table with Isabela Ipê and Off White Glass Top 100 cm",
+      "category": "Tables",
+      "tags": ["Dining Table", "Table", "Kitchen"],
+      "normalPrice": 993.99,
+      "salePrice": 593.96,
+      "discountPercentage": 0.4,
+      "new": true,
+      "description": {
+        "short": "The Isabela Table is an essential item for the functioning of your routine, whether for daily meals or for moments of celebration between family and friends.",
+        "long": "The Isabela Table is an essential item for the functioning of your routine, whether for daily meals or for moments of celebration between family and friends. With a glass top + elegant structure, it is simple to harmonize with other furniture essential to the environment and offers a great reinforcement when you need to arrange plates, cutlery and glasses to welcome everyone with great receptivity. Oh, the piece does not come with Chairs and you must purchase them separately to ensure full use."
+      },
+      "colors": [
+        {
+          "name": "Ipe",
+          "hex": "#3B2F2F"
+        }
+      ],
+      "sizes": ["S", "M"],
+      "rating": 5,
+      "images": {
+        "mainImage": "https://static.mobly.com.br/p/New-Ceval-Mesa-de-Jantar-Redonda-com-Tampo-de-Vidro-Isabela-IpC3AA-e-Off-White-100-cm-3527-530547-1.jpg",
+        "gallery": [
+          "https://static.mobly.com.br/p/New-Ceval-Mesa-de-Jantar-Redonda-com-Tampo-de-Vidro-Isabela-IpC3AA-e-Off-White-100-cm-3530-530547-2.jpg",
+          "https://static.mobly.com.br/p/New-Ceval-Mesa-de-Jantar-Redonda-com-Tampo-de-Vidro-Isabela-IpC3AA-e-Off-White-100-cm-3533-530547-3.jpg"
+        ]
+      }
+    },
+    {
+      "id": "23",
+      "sku": "782050",
+      "title": "Rectangular Dining Table with Agata Off White and Nature Glass Top 130 cm",
+      "category": "Tables",
+      "tags": ["Dining Table", "Table", "Living room"],
+      "normalPrice": 1299.99,
+      "salePrice": 890.96,
+      "discountPercentage": 0.31,
+      "new": true,
+      "description": {
+        "short": "Your living room, dining room or kitchen needs to be well equipped to make your get-togethers even more special, whether you're following everyday life or welcoming friends on different occasions.",
+        "long": "Your living room, dining room or kitchen needs to be well equipped to make your get-togethers even more special, whether you're following everyday life or welcoming friends on different occasions. For this, the Agata model is the ideal option! Thanks to its wide top, you will be able to accommodate all the elements necessary for meals, such as plates, glasses, cutlery and trays. And, since an ideal home style also consists of beautiful decoration, the design of the piece helps to make the room more noble. The woody base, combined with the sober colored top, with rounded edges and glass finish, adds an elegant touch to your space. Now just buy the Chairs of your dreams and enjoy a perfect home ;)"
+      },
+      "colors": [
+        {
+          "name": "Light Brown",
+          "hex": "#D2B48C"
+        }
+      ],
+      "sizes": ["L"],
+      "rating": 5,
+      "images": {
+        "mainImage": "https://static.mobly.com.br/p/Modern-Mesa-de-Jantar-Retangular-com-Tampo-de-Vidro-Agata-Off-White-e-Nature-130-cm-4488-934018-1.jpg",
+        "gallery": [
+          "https://static.mobly.com.br/p/Modern-Mesa-de-Jantar-Retangular-com-Tampo-de-Vidro-Agata-Off-White-e-Nature-130-cm-4487-934018-2.jpg",
+          "https://static.mobly.com.br/p/Modern-Mesa-de-Jantar-Retangular-com-Tampo-de-Vidro-Agata-Off-White-e-Nature-130-cm-4485-934018-3.jpg",
+          "https://static.mobly.com.br/p/Modern-Mesa-de-Jantar-Retangular-com-Tampo-de-Vidro-Agata-Off-White-e-Nature-130-cm-4483-934018-4.jpg",
+          "https://static.mobly.com.br/p/Modern-Mesa-de-Jantar-Retangular-com-Tampo-de-Vidro-Agata-Off-White-e-Nature-130-cm-4481-934018-5.jpg"
+        ]
+      }
+    },
+    {
+      "id": "24",
+      "sku": "782050",
+      "title": "Stanford Industrial Square Dining Table Almond and Black 90 cm",
+      "category": "Tables",
+      "tags": ["Dining Table", "Table", "Kitchen"],
+      "normalPrice": 587.99,
+      "salePrice": 435.59,
+      "discountPercentage": 0.25,
+      "new": true,
+      "description": {
+        "short": "There's no denying it: the dining table is one of the few pieces of furniture that effectively brings the family together, after all, who doesn't like to enjoy a good dish alongside the people they love most?",
+        "long": "There's no denying it: the dining table is one of the few pieces of furniture that effectively brings the family together, after all, who doesn't like to enjoy a good dish alongside the people they love most? And to ensure that your environment is impeccable, count on the Stanford Table. The model seeks inspiration from the industrial style by combining a black base in carbon steel and a brown top, but, at the same time, it opens up a range of possibilities when it comes to putting creativity into practice and making the best pairings for your Living room, dining room or kitchen. But don't think that the benefits are over, okay? The hollow sides and prominent straightness give the room sophistication and you can even combine it with other pieces from the Stanford Line to achieve a complete look. Oh, the piece does not come with Chairs and you must purchase them separately to ensure full use."
+      },
+      "colors": [
+        {
+          "name": "Oak",
+          "hex": "#A5694F"
+        }
+      ],
+      "sizes": ["M", "L", "XXL"],
+      "rating": 4.7,
+      "images": {
+        "mainImage": "https://static.mobly.com.br/p/Keva-Mesa-de-Jantar-Quadrada-Industrial-Stanford-AmC3AAndoa-e-Preta-90-cm-3395-753216-1.jpg",
+        "gallery": [
+          "https://static.mobly.com.br/p/Keva-Mesa-de-Jantar-Quadrada-Industrial-Stanford-AmC3AAndoa-e-Preta-90-cm-3394-753216-2.jpg",
+          "https://static.mobly.com.br/p/Keva-Mesa-de-Jantar-Quadrada-Industrial-Stanford-AmC3AAndoa-e-Preta-90-cm-3394-753216-3.jpg",
+          "https://static.mobly.com.br/p/Keva-Mesa-de-Jantar-Quadrada-Industrial-Stanford-AmC3AAndoa-e-Preta-90-cm-3394-753216-4.jpg",
+          "https://static.mobly.com.br/p/Keva-Mesa-de-Jantar-Quadrada-Industrial-Stanford-AmC3AAndoa-e-Preta-90-cm-3395-753216-5.jpg"
+        ]
+      }
+    },
+    {
+      "id": "25",
+      "sku": "1166596",
+      "title": "Extendable Round Dining Table with Fresta Hazelnut MDF Top",
+      "category": "Tables",
+      "tags": ["Dining Table", "Table", "Kitchen"],
+      "normalPrice": 2219.99,
+      "salePrice": 1349.96,
+      "discountPercentage": 0.39,
+      "new": false,
+      "description": {
+        "short": "There's nothing like getting the most out of your home's potential, right? With the Fresta Extendable Table, you not only get furniture with a solid wood structure, which is resistant and durable, but you also get to optimize your Living Room. dining room.",
+        "long": "There's nothing like getting the most out of your home's potential, right? With the Fresta Extendable Table, you not only have a piece of furniture with a solid wood structure, which is resistant and durable, but you can also optimize your living room and dining room. When closed, it holds up to 4 people, making it perfect for everyday use - when guests arrive you can open it and gain another 25cm of top quickly and easily, so everyone is comfortable. Ah, the tone of the wood with the varnished finish brings a natural beauty to the decor and also makes daily cleaning easier. Then just buy good Chairs and complete the room :)"
+      },
+      "colors": [
+        {
+          "name": "Hazel",
+          "hex": "#8E7618"
+        }
+      ],
+      "sizes": ["M"],
+      "rating": 3.9,
+      "images": {
+        "mainImage": "https://static.mobly.com.br/p/Keva-Mesa-de-Jantar-Redonda-ExtensC3ADvel-com-Tampo-MDF-Fresta-AvelC3A3-5353-4270021-1.jpg",
+        "gallery": [
+          "https://static.mobly.com.br/p/Keva-Mesa-de-Jantar-Redonda-ExtensC3ADvel-com-Tampo-MDF-Fresta-AvelC3A3-5362-4270021-2.jpg",
+          "https://static.mobly.com.br/p/Keva-Mesa-de-Jantar-Redonda-ExtensC3ADvel-com-Tampo-MDF-Fresta-AvelC3A3-5362-4270021-3.jpg",
+          "https://static.mobly.com.br/p/Keva-Mesa-de-Jantar-Redonda-ExtensC3ADvel-com-Tampo-MDF-Fresta-AvelC3A3-5362-4270021-4.jpg",
+          "https://static.mobly.com.br/p/Keva-Mesa-de-Jantar-Redonda-ExtensC3ADvel-com-Tampo-MDF-Fresta-AvelC3A3-5362-4270021-9.jpg"
+        ]
+      }
+    },
+    {
+      "id": "26",
+      "sku": "872145",
+      "title": "Anah Freijó and Black Office Desk",
+      "category": "Tables",
+      "tags": ["Office Desk", "Desk", "Office"],
+      "normalPrice": 789.99,
+      "salePrice": 404.96,
+      "discountPercentage": 0.48,
+      "new": true,
+      "description": {
+        "short": "Being well accommodated and in an organized environment greatly favors daily productivity, you know? Therefore, the Anah Office Desk is a great ally for your work or study hours.",
+        "long": "Being well accommodated and in an organized environment greatly favors daily productivity, you know? Therefore, the Anah Office Desk is a great ally for your work or study hours. With ample space on the top, it allows you to accommodate essential items for your routine, such as a notebook, notebook, stationery and even a bag to keep smaller objects always at hand. Versatile, the piece has an industrial look that highlights the black structure and the woody finish top, forming the ideal combo to be inserted into any decor, as it matches everything and also brings extra charm to the space. Now, in addition to being functional, your home office will be full of style and good taste!"
+      },
+      "colors": [
+        {
+          "name": "Oak",
+          "hex": "#A5694F"
+        }
+      ],
+      "sizes": ["M"],
+      "rating": 5,
+      "images": {
+        "mainImage": "https://static.mobly.com.br/p/Pradel-Mesa-de-EscritC3B3rio-Anah-FreijC3B3-e-Preta-0170-267309-1.jpg",
+        "gallery": [
+          "https://static.mobly.com.br/p/Pradel-Mesa-de-EscritC3B3rio-Anah-FreijC3B3-e-Preta-0172-267309-2.jpg",
+          "https://static.mobly.com.br/p/Pradel-Mesa-de-EscritC3B3rio-Anah-FreijC3B3-e-Preta-0173-267309-3.jpg"
+        ]
+      }
+    },
+    {
+      "id": "27",
+      "sku": "872146",
+      "title": "L-shaped Office Desk Anah Freijó and Black",
+      "category": "Tables",
+      "tags": ["Office Desk", "Desk", "Office"],
+      "normalPrice": 989.99,
+      "salePrice": 622.74,
+      "discountPercentage": 0.37,
+      "new": false,
+      "description": {
+        "short": "Being well accommodated and in an organized environment greatly favors daily productivity, you know? Therefore, the Anah Office Desk is a great ally for your work or study hours.",
+        "long": "Being well accommodated and in an organized environment greatly favors daily productivity, you know? Therefore, the Anah Office Desk is a great ally for your work or study hours. With ample space on the top, it allows you to accommodate essential items for your routine, such as a notebook, notebook, stationery and even a bag to keep smaller objects always at hand. Versatile, the piece has an industrial look that highlights the black structure and the woody finish top, forming the ideal combo to be inserted into any decor, as it matches everything and also brings extra charm to the space. Now, in addition to being functional, your home office will be full of style and good taste!"
+      },
+      "colors": [
+        {
+          "name": "Oak",
+          "hex": "#A5694F"
+        }
+      ],
+      "sizes": ["L"],
+      "rating": 5,
+      "images": {
+        "mainImage": "https://static.mobly.com.br/p/Pradel-Mesa-de-EscritC3B3rio-em-L-Anah-FreijC3B3-e-Preta-0166-367309-1.jpg",
+        "gallery": [
+          "https://static.mobly.com.br/p/Pradel-Mesa-de-EscritC3B3rio-em-L-Anah-FreijC3B3-e-Preta-0168-367309-2.jpg",
+          "https://static.mobly.com.br/p/Pradel-Mesa-de-EscritC3B3rio-em-L-Anah-FreijC3B3-e-Preta-0169-367309-3.jpg",
+          "https://static.mobly.com.br/p/Pradel-Mesa-de-EscritC3B3rio-em-L-Anah-FreijC3B3-e-Preta-4239-367309-4.jpg"
+        ]
+      }
+    },
+    {
+      "id": "28",
+      "sku": "773224",
+      "title": "Studio Nogal Office Desk 150 cm",
+      "category": "Tables",
+      "tags": ["Office Desk", "Desk", "Office"],
+      "normalPrice": 442.99,
+      "salePrice": 254.64,
+      "discountPercentage": 0.42,
+      "new": true,
+      "description": {
+        "short": "With the Studio Table, your routine objects are arranged on the top.",
+        "long": "You don't need to fill your room with things to create a study corner or complete home office. On the contrary, just invest in the right furniture and your performance will gain a great ally: organization! With the Studio Table, your routine objects are arranged on the top, in addition to those decorative items that help make the room more welcoming. The look of traditional colors and discreet design helps to ambience the space in a professional and pleasant way for everyday life. Now just find a chair to match your table perfectly!"
+      },
+      "colors": [
+        {
+          "name": "Nogal",
+          "hex": "#773F1A"
+        }
+      ],
+      "sizes": ["L"],
+      "rating": 5,
+      "images": {
+        "mainImage": "https://static.mobly.com.br/p/Compace-Mesa-de-EscritC3B3rio-Studio-Nogal-150-cm-9000-734108-1.jpg",
+        "gallery": [
+          "https://static.mobly.com.br/p/Compace-Mesa-de-EscritC3B3rio-Studio-Nogal-150-cm-3473-734108-2.jpg",
+          "https://static.mobly.com.br/p/Compace-Mesa-de-EscritC3B3rio-Studio-Nogal-150-cm-3474-734108-3.jpg",
+          "https://static.mobly.com.br/p/Compace-Mesa-de-EscritC3B3rio-Studio-Nogal-150-cm-3476-734108-4.jpg",
+          "https://static.mobly.com.br/p/Compace-Mesa-de-EscritC3B3rio-Studio-Nogal-150-cm-3478-734108-5.jpg"
+        ]
+      }
+    },
+    {
+      "id": "29",
+      "sku": "225653",
+      "title": "Nero White L-shaped Office Desk",
+      "category": "Tables",
+      "tags": ["Office Desk", "Desk", "Office"],
+      "normalPrice": 997.99,
+      "salePrice": 612.71,
+      "discountPercentage": 0.38,
+      "new": true,
+      "description": {
+        "short": "Made with resistant and quality materials",
+        "long": "Do you want to make your office much more usual and complete? So how about betting on the Office Desk in L Nero? Made with resistant and quality materials, it is ideal for making the space much more productive. Enjoy!"
+      },
+      "colors": [
+        {
+          "name": "White",
+          "hex": "#FFFFFF"
+        }
+      ],
+      "sizes": ["M", "L"],
+      "rating": 3.7,
+      "images": {
+        "mainImage": "https://static.mobly.com.br/p/Mobly-Mesa-de-EscritC3B3rio-em-L-Nero-Branco-0408-661122-2.jpg",
+        "gallery": [
+          "https://static.mobly.com.br/p/Mobly-Mesa-de-EscritC3B3rio-em-L-Nero-Branco-1348-661122-3.jpg",
+          "https://static.mobly.com.br/p/Mobly-Mesa-de-EscritC3B3rio-em-L-Nero-Branco-0408-661122-7.jpg",
+          "https://static.mobly.com.br/p/Mobly-Mesa-de-EscritC3B3rio-em-L-Nero-Branco-0408-661122-8.jpg",
+          "https://static.mobly.com.br/p/Mobly-Mesa-de-EscritC3B3rio-em-L-Nero-Branco-0402-661122-9.jpg"
+        ]
+      }
+    },
+    {
+      "id": "30",
+      "sku": "1164648",
+      "title": "Black Studio L-shaped Office Desk 120x140 cm",
+      "category": "Tables",
+      "tags": ["Office Desk", "Desk", "Office"],
+      "normalPrice": 719.99,
+      "salePrice": 359.96,
+      "discountPercentage": 0.5,
+      "new": false,
+      "description": {
+        "short": "With the Studio Table, you bring an industrial trend piece to your space",
+        "long": "Having a beautiful and well-decorated workspace also makes a difference in everyday life, doesn’t it? With the Studio Table, you bring an industrial trend piece to your space, which not only adds modernity to the decor but is also easy to combine with a chair, bookshelf and other office elements. The L shape is perfect for those of you who use a lot of paper or accessories on a daily basis, as it leaves everything organized and at hand, ready for use. Then just take advantage of all this to produce more and better ;)"
+      },
+      "colors": [
+        {
+          "name": "Black",
+          "hex": "#000000"
+        }
+      ],
+      "sizes": ["M", "L"],
+      "rating": 4.1,
+      "images": {
+        "mainImage": "https://static.mobly.com.br/p/Modern-Mesa-de-EscritC3B3rio-em-L-Studio-Preta-120x140-cm-1168-1778911-2.jpg",
+        "gallery": [
+          "https://static.mobly.com.br/p/Modern-Mesa-de-EscritC3B3rio-em-L-Studio-Preta-120x140-cm-1169-1778911-3.jpg",
+          "https://static.mobly.com.br/p/Modern-Mesa-de-EscritC3B3rio-em-L-Studio-Preta-120x140-cm-1166-1778911-1.jpg",
+          "https://static.mobly.com.br/p/Modern-Mesa-de-EscritC3B3rio-em-L-Studio-Preta-120x140-cm-1170-1778911-4.jpg",
+          "https://static.mobly.com.br/p/Modern-Mesa-de-EscritC3B3rio-em-L-Studio-Preta-120x140-cm-1171-1778911-5.jpg"
+        ]
+      }
+    },
+    {
+      "id": "31",
+      "sku": "1016962",
+      "title": "Double Wardrobe with Mirror Valência 2 PT 6 GV White",
+      "category": "Wardrobes",
+      "tags": ["Wardrobe", "Home", "Bedroom"],
+      "normalPrice": 2699.99,
+      "salePrice": 1738.74,
+      "discountPercentage": 0.35,
+      "new": true,
+      "description": {
+        "short": "The Valencia Wardrobe is beautiful, right? In addition to having this modern and imposing look that highlights the mirrors forming a horizontal line, it is spacious and perfect for being shared by a couple.",
+        "long": "With 2 doors and 6 drawers, there will be no shortage of space for clothing, accessories, cosmetics and even bed linen - everything finds an ideal corner in the internal rooms. Made with quality materials, the furniture is finished in UV painting, a technology that guarantees more protection and durability."
+      },
+      "colors": [
+        {
+          "name": "White",
+          "hex": "#DFDEDC"
+        }
+      ],
+      "sizes": ["L", "XL", "XS"],
+      "rating": 5,
+      "images": {
+        "mainImage": "https://static.mobly.com.br/p/Mobly-Guarda-Roupa-Casal-com-Espelho-ValC3AAncia-2-PT-6-GV-Branco-4758-1029401-1.jpg",
+        "gallery": [
+          "https://static.mobly.com.br/p/Mobly-Guarda-Roupa-Casal-com-Espelho-ValC3AAncia-2-PT-6-GV-Branco-4758-1029401-2.jpg",
+          "https://static.mobly.com.br/p/Mobly-Guarda-Roupa-Casal-com-Espelho-ValC3AAncia-2-PT-6-GV-Branco-2590-1029401-3.jpg",
+          "https://static.mobly.com.br/p/Mobly-Guarda-Roupa-Casal-com-Espelho-ValC3AAncia-2-PT-6-GV-Branco-2591-1029401-4.jpg",
+          "https://static.mobly.com.br/p/Mobly-Guarda-Roupa-Casal-com-Espelho-ValC3AAncia-2-PT-6-GV-Branco-2593-1029401-5.jpg"
+        ]
+      }
+    },
+    {
+      "id": "32",
+      "sku": "1016954",
+      "title": "Couple Wardrobe with Mirror Paris 3 PT 2 GV",
+      "category": "Wardrobes",
+      "tags": ["Wardrobe", "Home", "Bedroom"],
+      "normalPrice": 1329.99,
+      "salePrice": 917.94,
+      "discountPercentage": 0.3,
+      "new": true,
+      "description": {
+        "short": "To keep your bedroom organized and looking up to date, opt for the Paris Wardrobe. With 3 doors and 2 drawers, it has compartments for long items, those that go on clothes racks, those that can be folded and even for perfumery or bed linen, thanks to the shelves.",
+        "long": "On the outside, the woody finish of the UV painting not only guarantees a beautiful piece of furniture, but also increases its durability - while the mirror makes the room visually elegant and spacious. Oh, speaking of space, the doors that slide on aluminum tracks help you make better use of the available area, as they don't take up extra space when opening. This way, keeping your Bedroom organized is easy!"
+      },
+      "colors": [
+        {
+          "name": "Light Brown",
+          "hex": "#DCAD7F"
+        },
+        {
+          "name": "Black",
+          "hex": "#1C1C1C"
+        }
+      ],
+      "sizes": ["L", "XL", "XS"],
+      "rating": 4,
+      "images": {
+        "mainImage": "https://static.mobly.com.br/p/Mobly-Guarda-Roupa-Casal-com-Espelho-Paris-3-PT-2-GV-Naturale-4655-3919401-1.jpg",
+        "gallery": [
+          "https://static.mobly.com.br/p/Mobly-Guarda-Roupa-Casal-com-Espelho-Paris-3-PT-2-GV-Naturale-4655-3919401-2.jpg",
+          "https://static.mobly.com.br/p/Mobly-Guarda-Roupa-Casal-com-Espelho-Paris-3-PT-2-GV-Naturale-2557-3919401-3.jpg",
+          "https://static.mobly.com.br/p/Mobly-Guarda-Roupa-Casal-com-Espelho-Paris-3-PT-2-GV-Naturale-2558-3919401-4.jpg",
+          "https://static.mobly.com.br/p/Mobly-Guarda-Roupa-Casal-com-Espelho-Paris-3-PT-2-GV-Naturale-2559-3919401-5.jpg"
+        ]
+      }
+    },
+    {
+      "id": "33",
+      "sku": "1065514",
+      "title": "New Conect 4 PT 3 GV Single Wardrobe",
+      "category": "Wardrobes",
+      "tags": ["Wardrobe", "Home", "Bedroom"],
+      "normalPrice": 1489.99,
+      "salePrice": 0,
+      "discountPercentage": 0,
+      "new": true,
+      "description": {
+        "short": "Functional and complete to create a double bedroom.",
+        "long": "The New Conect Wardrobe has ideal space to accommodate all belongings in an organized way, whether in the 3 drawers or 4 doors - it also has an external niche for small objects. On the outside, it has a perfect look for those looking for a neutral piece of furniture that matches the other furniture in the room without stealing the spotlight."
+      },
+      "colors": [
+        {
+          "name": "White",
+          "hex": "#DFDEDC"
+        },
+        {
+          "name": "Black",
+          "hex": "#1C1C1C"
+        }
+      ],
+      "sizes": ["L", "XL", "XS"],
+      "rating": 4,
+      "images": {
+        "mainImage": "https://static.mobly.com.br/p/Santos-AndirC3A1-Guarda-Roupa-Solteiro-New-Conect-4-PT-3-GV-Branco-e-JatobC3A1-9175-1648901-2.jpg",
+        "gallery": [
+          "https://static.mobly.com.br/p/Santos-AndirC3A1-Guarda-Roupa-Solteiro-New-Conect-4-PT-3-GV-Branco-e-JatobC3A1-9171-1648901-1.jpg",
+          "https://static.mobly.com.br/p/Santos-AndirC3A1-Guarda-Roupa-Solteiro-New-Conect-4-PT-3-GV-Branco-e-JatobC3A1-0373-1648901-3.jpg",
+          "https://static.mobly.com.br/p/Santos-AndirC3A1-Guarda-Roupa-Solteiro-New-Conect-4-PT-3-GV-Branco-e-JatobC3A1-0376-1648901-4.jpg",
+          "https://static.mobly.com.br/p/Santos-AndirC3A1-Guarda-Roupa-Solteiro-New-Conect-4-PT-3-GV-Branco-e-JatobC3A1-0376-1648901-4.jpg"
+        ]
+      }
+    },
+    {
+      "id": "34",
+      "sku": "936144",
+      "title": "Double Wardrobe with 2 Mirrors Belluno 2 PT 3 GV",
+      "category": "Wardrobes",
+      "tags": ["Wardrobe", "Home", "Bedroom"],
+      "normalPrice": 2828.99,
+      "salePrice": 2240.96,
+      "discountPercentage": 0.2,
+      "new": false,
+      "description": {
+        "short": "Keeping everything organized is essential for a more practical day-to-day life, which is why the Belluno Wardrobe will be the perfect finishing touch for your Bedroom.",
+        "long": "With internal compartments that hold your clothes, personal items, shoes and accessories very well, it keeps everything in order and easy to reach when changing clothes, not letting you lose sight of what's important. On the outside, it has a classic charm with a sober color that is perfect for harmonizing with the rest of the furniture, so you don't have to worry about anything other than enjoying your relaxing corner and replenishing your energy for the next day."
+      },
+      "colors": [
+        {
+          "name": "Black",
+          "hex": "#1C1C1C"
+        },
+        {
+          "name": "White",
+          "hex": "#DFDEDC"
+        }
+      ],
+      "sizes": ["L", "XL", "XS"],
+      "rating": 4,
+      "images": {
+        "mainImage": "https://static.mobly.com.br/p/RR-MC3B3veis-Guarda-Roupa-Casal-com-2-Espelhos-Belluno-2-PT-3-GV-Branco-5476-428769-1.jpg",
+        "gallery": [
+          "https://static.mobly.com.br/p/RR-MC3B3veis-Guarda-Roupa-Casal-com-2-Espelhos-Belluno-2-PT-3-GV-Branco-5484-428769-2.jpg",
+          "https://static.mobly.com.br/p/RR-MC3B3veis-Guarda-Roupa-Casal-com-2-Espelhos-Belluno-2-PT-3-GV-Branco-5489-428769-3.jpg",
+          "https://static.mobly.com.br/p/RR-MC3B3veis-Guarda-Roupa-Casal-com-2-Espelhos-Belluno-2-PT-3-GV-Branco-5489-428769-4.jpg",
+          "https://static.mobly.com.br/p/RR-MC3B3veis-Guarda-Roupa-Casal-com-2-Espelhos-Belluno-2-PT-3-GV-Branco-5334-428769-5.jpg"
+        ]
+      }
+    },
+    {
+      "id": "35",
+      "sku": "1136861",
+      "title": "Closet Studio Wardrobe",
+      "category": "Wardrobes",
+      "tags": ["Wardrobe", "Home", "Bedroom"],
+      "normalPrice": 579.99,
+      "salePrice": 0,
+      "discountPercentage": 0,
+      "new": false,
+      "description": {
+        "short": "The Studio Wardrobe is a versatile and perfect solution to transform your Bedroom into a well-organized space full of charm: closet-type, it can be used alone or combined with other modules, so you create personalized furniture that meets your specific needs.",
+        "long": "In addition to its great functionality, it has a modern design thanks to the combination of materials and industrial style, not to mention the color, which adds a touch of good taste to the decor of the room - all these features make it an indispensable addition to make your routine more pleasant and truly complete. Then just choose the corner where it will shine and enjoy an impeccable home-style."
+      },
+      "colors": [
+        {
+          "name": "White",
+          "hex": "#DFDEDC"
+        }
+      ],
+      "sizes": ["L", "XL", "XS"],
+      "rating": 1,
+      "images": {
+        "mainImage": "https://static.mobly.com.br/p/Modern-Guarda-Roupa-Closet-Studio-Mel-e-Branco-187x80-cm-6973-3680711-1.jpg",
+        "gallery": [
+          "https://static.mobly.com.br/p/Modern-Guarda-Roupa-Closet-Studio-Mel-e-Branco-187x80-cm-6974-3680711-2.jpg",
+          "https://static.mobly.com.br/p/Modern-Guarda-Roupa-Closet-Studio-Mel-e-Branco-187x80-cm-6975-3680711-3.jpg",
+          "https://static.mobly.com.br/p/Modern-Guarda-Roupa-Closet-Studio-Mel-e-Branco-187x80-cm-6977-3680711-4.jpg",
+          "https://static.mobly.com.br/p/Modern-Guarda-Roupa-Closet-Studio-Mel-e-Branco-187x80-cm-6979-3680711-5.jpg"
+        ]
+      }
+    },
+    {
+      "id": "36",
+      "sku": "952842",
+      "title": "Malibu Couple Wardrobe 6 PT 2 GV",
+      "category": "Wardrobes",
+      "tags": ["Wardrobe", "Home", "Bedroom"],
+      "normalPrice": 579.99,
+      "salePrice": 0,
+      "discountPercentage": 0,
+      "new": true,
+      "description": {
+        "short": "A necessary item for the proper functioning of the Bedroom, the Malibu Wardrobe is the ideal piece of furniture to keep the room tidy up to date.",
+        "long": "Equipped with doors and drawers, it has compartments for clothing, shoes, accessories, cosmetics and even organizing boxes - everything to ensure that essential items for your routine are always at hand. Furthermore, the robust look with traditional coloring of this type of furniture offers sophistication and good taste to the decoration of your space. Only benefits for an incredible home like yours."
+      },
+      "colors": [
+        {
+          "name": "Brown",
+          "hex": "#7A5B3F"
+        }
+      ],
+      "sizes": ["L", "XL", "XS"],
+      "rating": 5,
+      "images": {
+        "mainImage": "https://static.mobly.com.br/p/Modern-Guarda-Roupa-Casal-Malibu-6-PT-2-GV-Imbuia-9151-155489-1.jpg",
+        "gallery": [
+          "https://static.mobly.com.br/p/Modern-Guarda-Roupa-Casal-Malibu-6-PT-2-GV-Imbuia-9144-155489-2.jpg",
+          "https://static.mobly.com.br/p/Modern-Guarda-Roupa-Casal-Malibu-6-PT-2-GV-Imbuia-9284-155489-3.jpg",
+          "https://static.mobly.com.br/p/Modern-Guarda-Roupa-Casal-Malibu-6-PT-2-GV-Imbuia-9151-155489-4.jpg",
+          "https://static.mobly.com.br/p/Modern-Guarda-Roupa-Casal-Malibu-6-PT-2-GV-Imbuia-9151-155489-5.jpg"
+        ]
+      }
+    },
+    {
+      "id": "37",
+      "sku": "952842",
+      "title": "Single Wardrobe with Mirror Reflecta Elite II 2 PT 3",
+      "category": "Wardrobes",
+      "tags": ["Wardrobe", "Home", "Bedroom"],
+      "normalPrice": 3574.99,
+      "salePrice": 2498.39,
+      "discountPercentage": 0.3,
+      "new": true,
+      "description": {
+        "short": "To give the Bedroom more functionality and leave the environment organized, a good wardrobe is essential. Bet on the Elite model to make your bedroom truly complete!",
+        "long": "With great storage space provided by the two doors and three drawers, it well accommodates your clothing, shoes, accessories or other personal objects and also ensures that your routine is more practical. On the outside, the mirror is an ally when checking your makeup, hair or look on a daily basis. All this with a classic design for this type of furniture and a neutral coloring that perfectly complements any style of decoration and helps you create the home style of your dreams."
+      },
+      "colors": [
+        {
+          "name": "White",
+          "hex": "#DFDEDC"
+        },
+        {
+          "name": "Brown",
+          "hex": "#7A5B3F"
+        }
+      ],
+      "sizes": ["L", "XL", "XS"],
+      "rating": 3.5,
+      "images": {
+        "mainImage": "https://static.mobly.com.br/p/Robel-MC3B3veis-Guarda-Roupa-Solteiro-com-Espelho-Reflecta-Elite-II-2-PT-3-GV-Branco-5075-844608-1.jpg",
+        "gallery": [
+          "https://static.mobly.com.br/p/Robel-MC3B3veis-Guarda-Roupa-Solteiro-com-Espelho-Reflecta-Elite-II-2-PT-3-GV-Branco-5078-844608-2.jpg",
+          "https://static.mobly.com.br/p/Robel-MC3B3veis-Guarda-Roupa-Solteiro-com-Espelho-Reflecta-Elite-II-2-PT-3-GV-Branco-5082-844608-3.jpg",
+          "https://static.mobly.com.br/p/Robel-MC3B3veis-Guarda-Roupa-Solteiro-com-Espelho-Reflecta-Elite-II-2-PT-3-GV-Capuccino-5003-644608-1.jpg",
+          "https://static.mobly.com.br/p/Robel-MC3B3veis-Guarda-Roupa-Solteiro-com-Espelho-Reflecta-Elite-II-2-PT-3-GV-Capuccino-5006-644608-2.jpg"
+        ]
+      }
+    },
+    {
+      "id": "38",
+      "sku": "901464",
+      "title": "Madesa Emilly Box Complete Kitchen Cabinet with Counter and Overhead Glass - Rustic/Black",
+      "category": "Cabinets",
+      "tags": ["Closet", "Home", "Kitchen"],
+      "normalPrice": 2249.99,
+      "salePrice": 899.99,
+      "discountPercentage": 0.4,
+      "new": false,
+      "description": {
+        "short": "To give the kitchen more functionality and keep the space organized, a good cabinet is essential. Bet on the Madesa Emilly model to make your kitchen truly complete!",
+        "long": "With great storage space provided by its doors and drawers, it accommodates your utensils well and also ensures that your routine is more practical. On the outside, it has a classic design for this type of furniture and a neutral color that perfectly complements any style of decoration and helps you create the home style of your dreams."
+      },
+      "colors": [
+        {
+          "name": "Black",
+          "hex": "#0E1410"
+        }
+      ],
+      "sizes": ["L", "XL", "XS"],
+      "rating": 4,
+      "images": {
+        "mainImage": "https://static.mobly.com.br/p/Madesa-ArmC3A1rio-de-Cozinha-Completa-Madesa-Emilly-Box-com-BalcC3A3o-e-AC3A9reo-Vidro---Rustic2FPreto-9860-211339-1.jpg",
+        "gallery": [
+          "https://static.mobly.com.br/p/Madesa-ArmC3A1rio-de-Cozinha-Completa-Madesa-Emilly-Box-com-BalcC3A3o-e-AC3A9reo-Vidro---Rustic2FPreto-9861-211339-2.jpg",
+          "https://static.mobly.com.br/p/Madesa-ArmC3A1rio-de-Cozinha-Completa-Madesa-Emilly-Box-com-BalcC3A3o-e-AC3A9reo-Vidro---Rustic2FPreto-9862-211339-3.jpg",
+          "https://static.mobly.com.br/p/Madesa-ArmC3A1rio-de-Cozinha-Completa-Madesa-Emilly-Box-com-BalcC3A3o-e-AC3A9reo-Vidro---Rustic2FPreto-9863-211339-4.jpg",
+          "https://static.mobly.com.br/p/Madesa-ArmC3A1rio-de-Cozinha-Completa-Madesa-Emilly-Box-com-BalcC3A3o-e-AC3A9reo-Vidro---Rustic2FPreto-9865-211339-5.jpg"
+        ]
+      }
+    },
+    {
+      "id": "39",
+      "sku": "1033962",
+      "title": "Single Wardrobe with 1 Mirror Lugano 2",
+      "category": "Wardrobes",
+      "tags": ["Wardrobe", "Home", "Bedroom"],
+      "normalPrice": 1556.96,
+      "salePrice": 0,
+      "discountPercentage": 0,
+      "new": false,
+      "description": {
+        "short": "When it comes to leaving the Bedroom well organized and prepared for the routine, opt for a large piece of furniture with compartments that accommodate everything you need.",
+        "long": "The Lugano Wardrobe has drawers that hold folded clothes, while the hangers keep long, delicate pieces free from wrinkles. The other compartments hold duvets, towels, suitcases, organizing boxes and whatever else you need to keep nearby to simplify your routine - speaking of making things easier, the mirror on the door is a great detail that won't let you miss any detail of yours. look. With a sober color and classic structure, you also get an ally for decoration that, thanks to the sliding doors, will help you make the most of the space in your bedroom."
+      },
+      "colors": [
+        {
+          "name": "White",
+          "hex": "#DFDEDC"
+        }
+      ],
+      "sizes": ["L", "XL", "XS"],
+      "rating": 4.5,
+      "images": {
+        "mainImage": "https://static.mobly.com.br/p/RR-MC3B3veis-Guarda-Roupa-Solteiro-com-1-Espelho-Lugano-2-PT-2-GV-Branco-6368-0716601-2.jpg",
+        "gallery": [
+          "https://static.mobly.com.br/p/RR-MC3B3veis-Guarda-Roupa-Solteiro-com-1-Espelho-Lugano-2-PT-2-GV-Branco-6367-0716601-1.jpg",
+          "https://static.mobly.com.br/p/RR-MC3B3veis-Guarda-Roupa-Solteiro-com-1-Espelho-Lugano-2-PT-2-GV-Branco-6369-0716601-3.jpg",
+          "https://static.mobly.com.br/p/RR-MC3B3veis-Guarda-Roupa-Solteiro-com-1-Espelho-Lugano-2-PT-2-GV-Branco-6370-0716601-4.jpg",
+          "https://static.mobly.com.br/p/RR-MC3B3veis-Guarda-Roupa-Solteiro-com-1-Espelho-Lugano-2-PT-2-GV-Branco-6372-0716601-5.jpg"
+        ]
+      }
+    },
+    {
+      "id": "40",
+      "sku": "1221811",
+      "title": "Double Wardrobe with 3 Mirrors Geneva 100% MDF 3 PT 4 GV",
+      "category": "Wardrobes",
+      "tags": ["Wardrobe", "Home", "Bedroom"],
+      "normalPrice": 5479.99,
+      "salePrice": 3122.96,
+      "discountPercentage": 0.43,
+      "new": true,
+      "description": {
+        "short": "Looking for a wardrobe that combines functionality and style for your bedroom?",
+        "long": "The Geneva Wardrobe is the ideal choice! Built in resistant MDF, telescopic slides and aluminum handles, this model also has a full-length mirror, which expands the space and provides practicality in everyday life. In addition to usability, the furniture has an elegant design that highlights the sober color and robust box. Ah, the sliding doors have an anti-derailment system to ensure routine safety."
+      },
+      "colors": [
+        {
+          "name": "White",
+          "hex": "#DFDEDC"
+        }
+      ],
+      "sizes": ["L", "XL", "XS"],
+      "rating": 0,
+      "images": {
+        "mainImage": "https://static.mobly.com.br/p/Modern-Guarda-Roupa-Casal-com-1-Espelho-Genebra-10025-MDF-3-PT-4-GV-Branco-4116-5307521-1.jpg",
+        "gallery": [
+          "https://static.mobly.com.br/p/Modern-Guarda-Roupa-Casal-com-1-Espelho-Genebra-10025-MDF-3-PT-4-GV-Branco-4124-5307521-2.jpg",
+          "https://static.mobly.com.br/p/Modern-Guarda-Roupa-Casal-com-1-Espelho-Genebra-10025-MDF-3-PT-4-GV-Branco-3982-5307521-3.jpg",
+          "https://static.mobly.com.br/p/Modern-Guarda-Roupa-Casal-com-1-Espelho-Genebra-10025-MDF-3-PT-4-GV-Branco-4124-5307521-4.jpg"
+        ]
+      }
+    },
+    {
+      "id": "41",
+      "sku": "730455",
+      "title": "Charles Eames II Chair",
+      "category": "Chairs",
+      "tags": ["Dining Room", "Dinner Chairs", "Kitchen Chairs"],
+      "normalPrice": 169.17,
+      "salePrice": 175,
+      "discountPercentage": 0.3,
+      "new": true,
+      "description": {
+        "short": "Charles Eames Chair. In addition to the very traditional format in the world of design, which provides more convenience during activities",
+        "long": "Functional and perfect for composing different environments in the home, Chairs are furniture that require a cozy structure and beautiful design - everything you find in the Charles Eames Chair. In addition to the very traditional shape in the world of design that provides more comfort during activities, the piece also has a color that is easy to harmonize with the rest of the furniture. All of this helps you to enjoy much more with your guests or family and enjoy a captivating home-style."
+      },
+      "colors": [
+        {
+          "name": "Pink",
+          "hex": "#FF949A"
+        },
+        {
+          "name": "Black",
+          "hex": "#0E1410"
+        },
+        {
+          "name": "Blue",
+          "hex": "#75C3E7"
+        }
+      ],
+      "sizes": ["L", "XL", "XS"],
+      "rating": 4.5,
+      "images": {
+        "mainImage": "https://static.mobly.com.br/p/Mobly-Cadeira-Charles-Eames-II-Preta-9703-686757-2.jpg",
+        "gallery": [
+          "https://static.mobly.com.br/p/Mobly-Cadeira-Charles-Eames-II-Preta-9700-686757-1.jpg",
+          "https://static.mobly.com.br/p/Mobly-Cadeira-de-Jantar-Charles-Eames-Azul-9911-856757-1.jpg",
+          "https://static.mobly.com.br/p/Mobly-Cadeira-de-Jantar-Charles-Eames-Rosa-9876-366757-1.jpg"
+        ]
+      }
+    },
+    {
+      "id": "42",
+      "sku": "1099478",
+      "title": "Chairs Mona Linho",
+      "category": "Chairs",
+      "tags": [
+        "Dinner Chairs",
+        "Dining Room",
+        "Dining Table and Chair Set",
+        "Kitchen Chairs"
+      ],
+      "normalPrice": 710.96,
+      "salePrice": 175,
+      "discountPercentage": 0.3,
+      "new": false,
+      "description": {
+        "short": "The Mona Chair Set will look incredible in your home style. In addition to beautifying the environment, thanks to the steel structure with black paint",
+        "long": "With a contemporary design that flirts with the minimalist style, the Mona Chair Set will look incredible in your home style. In addition to beautifying the environment, thanks to the steel structure with black paint and the neutral color of the Linen covering, it also accommodates excellently, as it has a seat and back upholstered in foam of the ideal density for welcoming. Oh, did you notice the synthetic fabric detail? Pure good taste for your corner"
+      },
+      "colors": [
+        {
+          "name": "Ginger",
+          "hex": "#CA9C82"
+        },
+        {
+          "name": "Green",
+          "hex": "#6A8375"
+        },
+        {
+          "name": "Black",
+          "hex": "#666668"
+        }
+      ],
+      "sizes": ["L", "XL", "XS"],
+      "rating": 4.5,
+      "images": {
+        "mainImage": "https://static.mobly.com.br/p/Fitmobel-Conjunto-de-Mesa-de-Jantar-Retangular-com-Tampo-Natura-Porto-e-4-Chairs-Mona-Linho-Bege-2284-446079-1.jpg",
+        "gallery": [
+          "https://static.mobly.com.br/p/MC3B3veis-Belo-Conjunto-com-2-Chairs-Mona-Linho-Gengibre-e-Whisky-4066-1172311-4.jpg",
+          "https://static.mobly.com.br/p/MC3B3veis-Belo-Conjunto-com-2-Chairs-Mona-Linho-Panama-e-Verde-4059-2172311-4.jpg",
+          "https://static.mobly.com.br/p/MC3B3veis-Belo-Conjunto-com-2-Chairs-Mona-Linho-Panama-e-Preto-4072-3172311-4.jpg"
+        ]
+      }
+    },
+    {
+      "id": "43",
+      "sku": "1250191",
+      "title": "Tiva Linho Chairs",
+      "category": "Chairs",
+      "tags": ["Dining Chairs", "Dining Room"],
+      "normalPrice": 610.97,
+      "salePrice": 175,
+      "discountPercentage": 0.3,
+      "new": true,
+      "description": {
+        "short": "The Tiva Set is not only functional but also brings a touch of sophisticated design to your corner.",
+        "long": "Perfect for your dream dining room, the Tiva Set is not only functional but also brings a touch of sophisticated design to your corner. While the resistant structure, foam filling and linen lining provide all the necessary comfort, the 2 pieces have a timeless color and woody finish, forming the right combo to leave your corner full of good taste and refinement. You can imagine enjoying good dishes in great company, right?"
+      },
+      "colors": [
+        {
+          "name": "Gray",
+          "hex": "#8B8A85"
+        },
+        {
+          "name": "Lead",
+          "hex": "#2C2B25"
+        },
+        {
+          "name": "Beige",
+          "hex": "#C2B79F"
+        }
+      ],
+      "sizes": ["L", "XL", "XS"],
+      "rating": 4.5,
+      "images": {
+        "mainImage": "https://static.mobly.com.br/p/Kappesberg-Conjunto-com-2-Chairs-Tiva-Linho-Cinza-e-Nogueira-9086-6509821-2.jpg",
+        "gallery": [
+          "https://static.mobly.com.br/p/Kappesberg-Conjunto-com-2-Chairs-Tiva-Linho-Cinza-e-Nogueira-9084-6509821-1.jpg",
+          "https://static.mobly.com.br/p/Kappesberg-Conjunto-com-2-Chairs-Tiva-Veludo-Chumbo-e-FreijC3B3-9093-4509821-1.jpg",
+          "https://static.mobly.com.br/p/Kappesberg-Conjunto-com-2-Chairs-Tiva-Linho-Bege-e-Nogueira-9089-5509821-1.jpg"
+        ]
+      }
+    },
+    {
+      "id": "44",
+      "sku": "1064890 ",
+      "title": "Windsor Fendi Chairs",
+      "category": "Chairs",
+      "tags": ["Dining Chairs", "Dining Room"],
+      "normalPrice": 872.99,
+      "salePrice": 175,
+      "discountPercentage": 0.3,
+      "new": false,
+      "description": {
+        "short": "With a modern design, the 4 pieces have wooden feet, which provide firmness when used, and a back with hollow details.",
+        "long": "In addition to being used to accommodate meals, Chairs also add a stylish touch to the decor, like the Windsor model. With a modern design, the 4 pieces have wooden feet, which provide firmness for use, and a back with hollow details, which gives a difference to the home style and is also simple to harmonize with other furniture. Oh, they can compose different environments, be it the Dining Room, living room or even accompany your dressing table. All this for you to enjoy with your guests or family."
+      },
+      "colors": [
+        {
+          "name": "White",
+          "hex": "#EBECF0"
+        },
+        {
+          "name": "Black",
+          "hex": "#535258"
+        },
+        {
+          "name": "Pink",
+          "hex": "#F3B6A3"
+        }
+      ],
+      "sizes": ["L", "XL", "XS"],
+      "rating": 4.5,
+      "images": {
+        "mainImage": "https://static.mobly.com.br/p/Mobly-Conjunto-com-4-Chairs-Windsor-Fendi-9116-1187901-1.jpg",
+        "gallery": [
+          "https://static.mobly.com.br/p/Mobly-Cadeira-Windsor-Fendi-9127-9087901-1.jpg",
+          "https://static.mobly.com.br/p/Mobly-Cadeira-Windsor-Rosa-9111-4187901-1.jpg",
+          "https://static.mobly.com.br/p/Mobly-Cadeira-Windsor-Verde-Musgo-e-Madeira-0667-3863611-1.jpg"
+        ]
+      }
+    },
+    {
+      "id": "45",
+      "sku": "1064794",
+      "title": "Fendi Wood Web Chairs",
+      "category": "Chairs",
+      "tags": ["Dining Room", "Kitchen", "Kitchen Chairs"],
+      "normalPrice": 359.96,
+      "salePrice": 175,
+      "discountPercentage": 0.3,
+      "new": false,
+      "description": {
+        "short": "With a modern design, the 4 pieces have wooden feet, which provide firmness when used, and a back with hollow details.",
+        "long": "In addition to being used to accommodate meals, Chairs also add a stylish touch to the decor, like the Windsor model. With a modern design, the 4 pieces have wooden feet, which provide firmness for use, and a back with hollow details, which gives a difference to the home style and is also simple to harmonize with other furniture. Ah, they can compose different environments, be it the Living room for dining, living room or even accompanying your dressing table. All this for you to enjoy with your guests or family."
+      },
+      "colors": [
+        {
+          "name": "Beige",
+          "hex": "#C7C1A2"
+        },
+        {
+          "name": "Black",
+          "hex": "#24292C"
+        },
+        {
+          "name": "White",
+          "hex": "#AAB2B4"
+        }
+      ],
+      "sizes": ["L", "XL", "XS"],
+      "rating": 4.5,
+      "images": {
+        "mainImage": "https://static.mobly.com.br/p/Mobly-Cadeira-Web-Preta-e-Madeira-9603-996757-2.jpg",
+        "gallery": [
+          "https://static.mobly.com.br/p/Mobly-Cadeira-Web-Wood-Fendi-0012-4177901-1.jpg",
+          "https://static.mobly.com.br/p/Mobly-Cadeira-Web-Branca-e-Madeira-9609-896757-1.jpg",
+          "https://static.mobly.com.br/p/Mobly-Cadeira-Web-Preta-e-Madeira-9600-996757-1.jpg"
+        ]
+      }
+    },
+    {
+      "id": "46",
+      "sku": "971915",
+      "title": "Masters Allegra Chair",
+      "category": "Chairs",
+      "tags": [
+        "Dining Room",
+        "Dinner Chairs",
+        "Kitchen",
+        "Benches and Stools",
+        "Kitchen Chairs"
+      ],
+      "normalPrice": 159.9,
+      "salePrice": 175,
+      "discountPercentage": 0.3,
+      "new": true,
+      "description": {
+        "short": "With a modern design, the 4 pieces have wooden feet, which provide firmness when used, and a back with hollow details.",
+        "long": "Perfect for your dream Dining Room, the Tiva Set is not only functional but also brings a touch of sophisticated design to your corner. While the resistant structure, foam filling and linen lining provide all the necessary comfort, the 2 pieces have a timeless color and woody finish, forming the right combo to leave your corner full of good taste and refinement. You can imagine enjoying good dishes in great company, right?"
+      },
+      "colors": [
+        {
+          "name": "Black",
+          "hex": "#3F3D40"
+        },
+        {
+          "name": "Green",
+          "hex": "#58937D"
+        },
+        {
+          "name": "Orange",
+          "hex": "#FF8D57"
+        }
+      ],
+      "sizes": ["L", "XL", "XS"],
+      "rating": 4.5,
+      "images": {
+        "mainImage": "https://static.mobly.com.br/p/Loft7-Kit-2-Chairs-Masters-Allegra-Preto-0361-4583001-1.jpg",
+        "gallery": [
+          "https://static.mobly.com.br/p/Loft7-Cadeira-Masters-Allegra-Preto-8990-2963001-1.jpg",
+          "https://static.mobly.com.br/p/Loft7-Cadeira-Masters-Allegra-Verde-escuro-8923-4963001-1.jpg",
+          "https://static.mobly.com.br/p/Loft7-Cadeira-Masters-Allegra-Laranja-8861-8863001-1.jpg"
+        ]
+      }
+    },
+    {
+      "id": "47",
+      "title": "Ávila Upholstered Living Chair L02",
+      "sku": "1163777",
+      "category": "Chairs",
+      "tags": ["Dining Room", "Dining Chairs"],
+      "normalPrice": 712.71,
+      "salePrice": 175,
+      "discountPercentage": 0.3,
+      "new": true,
+      "description": {
+        "short": "The Ávila Chair combines style and functionality in a unique way. Structured in solid wood, it has curvilinear details that bring softness and delicacy to the piece.",
+        "long": "Inspired by elegant 19th century Parisian furniture and designed to provide maximum comfort, the Ávila Chair combines style and functionality in a unique way. Structured in solid wood, it has curvilinear details that bring softness and delicacy to the piece, its varnished finish makes it a standout piece of furniture and brings durability and confidence to its use. It has an upholstered seat, which provides its user with the ideal feeling of comfort and also adds class to any environment.  Its design makes it a versatile piece that opens doors to your imagination as it can be placed in living, dining and waiting rooms, bedrooms, entrance halls and kitchens. Express your good taste and purchase this masterpiece of sophistication now!"
+      },
+      "colors": [
+        {
+          "name": "Salmon",
+          "hex": "#A28D7C"
+        },
+        {
+          "name": "Pink",
+          "hex": "#BD9F97"
+        },
+        {
+          "name": "White",
+          "hex": "#B7ADAC"
+        }
+      ],
+      "sizes": ["L", "XL", "XS"],
+      "rating": 4.5,
+      "images": {
+        "mainImage": "https://static.mobly.com.br/p/Lyam-Decor-Cadeira-Para-Sala-de-Jantar-e-Estar-Living-Estofada-C381vila-L02-Linho-Bege---Lyam-4921-8975911-2.jpg",
+        "gallery": [
+          "https://static.mobly.com.br/p/Lyam-Decor-Cadeira-Para-Sala-de-Jantar-e-Estar-Living-Estofada-C381vila-L02-Linho-Bege---Lyam-4918-8975911-1.jpg",
+          "https://static.mobly.com.br/p/Lyam-Decor-Kit-06-Cadeiras-Para-Sala-de-Jantar-e-Estar-Living-Estofada-C381vila-L02-Suede-RosC3AA---Lyam-7019-8985911-3.jpg",
+          "https://static.mobly.com.br/p/Lyam-Decor-Kit-04-Cadeiras-Para-Sala-de-Jantar-e-Estar-Living-Estofada-C381vila-L02-Suede-Cinza---Lyam-6673-3985911-3.jpg"
+        ]
+      }
+    },
+    {
+      "id": "48",
+      "title": "Melina L02 Leather Chair",
+      "sku": "1144106",
+      "category": "Chairs",
+      "tags": ["Dining Room", "Dining Chairs"],
+      "normalPrice": 887.31,
+      "salePrice": 175,
+      "discountPercentage": 0.3,
+      "new": true,
+      "description": {
+        "short": "Structured in carbon steel, it contrasts beautifully with the upholstered back and seat, which are extremely comfortable, resistant and cozy.",
+        "long": "If you are looking for comfort, enhancement and practicality, the Melina Upholstered Chair will exceed all your expectations. It guarantees a lot of comfort and optimizes space, in addition to easily harmonizing with your decorative style, and can be used in living rooms, dining rooms and kitchens, as well as adding a special touch to your decor. Its design proposal will soften your environment without going unnoticed, offering more lightness and receptivity to your home. Structured in carbon steel, it contrasts beautifully with the upholstered back and seat, which are extremely comfortable, resistant and cozy. You deserve this incredible combination in your home, get yours now!"
+      },
+      "colors": [
+        {
+          "name": "Whisky",
+          "hex": "#D7A26E"
+        },
+        {
+          "name": "Black",
+          "hex": "#0F0F0F"
+        },
+        {
+          "name": "Brown",
+          "hex": "#673922"
+        }
+      ],
+      "sizes": ["L", "XL", "XS"],
+      "rating": 4.5,
+      "images": {
+        "mainImage": "https://static.mobly.com.br/p/Lyam-Decor-Kit-02-Cadeira-Para-Sala-De-Jantar-Melina-L02-CourC3ADssimo-Marrom-CourC3ADssimo-Camel---Lyam-Decor-5116-7850811-2.jpg",
+        "gallery": [
+          "https://static.mobly.com.br/p/Lyam-Decor-Kit-02-Cadeira-Para-Sala-De-Jantar-Melina-L02-CourC3ADssimo-Marrom-CourC3ADssimo-Camel---Lyam-Decor-5118-7850811-3.jpg",
+          "https://static.mobly.com.br/p/Lyam-Decor-Kit-02-Cadeiras-Para-Sala-De-Jantar-Melina-L02-CourC3ADssimo-Camel-CourC3ADssimo-Preto---Lyam-Decor-2800-7308711-3.jpg",
+          "https://static.mobly.com.br/p/Lyam-Decor-Kit-02-Cadeira-Para-Sala-De-Jantar-Melina-L02-CourC3ADssimo-Camel-CourC3ADssimo-Marrom---Lyam-Decor-2815-2418711-3.jpg"
+        ]
+      }
+    },
+    {
+      "id": "49",
+      "sku": "1103940 ",
+      "title": "Charles Upholstered Chair",
+      "category": "Chairs",
+      "tags": ["Dining Room", "Dining Chair", "Kitchen", "Kitchen Chairs"],
+      "normalPrice": 170.9,
+      "salePrice": 175,
+      "discountPercentage": 0.3,
+      "new": false,
+      "description": {
+        "short": "Structured in carbon steel, it contrasts beautifully with the upholstered back and seat, which are extremely comfortable, resistant and cozy.",
+        "long": "If you are looking for comfort, enhancement and practicality, the Melina Upholstered Chair will exceed all your expectations. It guarantees a lot of comfort and optimizes space, in addition to easily harmonizing with your decorative style, and can be used in living rooms, dining rooms and kitchens, as well as adding a special touch to your decor. Its design proposal will soften your environment without going unnoticed, offering more lightness and receptivity to your home. Structured in carbon steel, it contrasts beautifully with the upholstered back and seat, which are extremely comfortable, resistant and cozy. You deserve this incredible combination in your home, get yours now!"
+      },
+      "colors": [
+        {
+          "name": "Black",
+          "hex": "#333333"
+        },
+        {
+          "name": "Beige",
+          "hex": "#E4D4BD"
+        },
+        {
+          "name": "White",
+          "hex": "#DFDFDF"
+        }
+      ],
+      "sizes": ["L", "XL", "XS"],
+      "rating": 4.5,
+      "images": {
+        "mainImage": "https://static.mobly.com.br/p/Loft7-Kit-2-cadeiras-estofadas-Charles-Eames-Eiffel-BotonC3AA-com-pC3A9s-de-madeira-clara-Preto-8951-3848601-1.jpg",
+        "gallery": [
+          "https://static.mobly.com.br/p/Loft7-Kit-2-cadeiras-estofadas-Charles-Eames-Eiffel-BotonC3AA-com-pC3A9s-de-madeira-clara-Preto-8954-3848601-2.jpg",
+          "https://static.mobly.com.br/p/Loft7-Kit-2-cadeiras-estofadas-Charles-Eames-Eiffel-BotonC3AA-com-pC3A9s-de-madeira-clara-Cinza-mC3A9dio-4743-6672621-2.jpg",
+          "https://static.mobly.com.br/p/Loft7-Kit-2-cadeiras-estofadas-Charles-Eames-Eiffel-BotonC3AA-com-pC3A9s-de-madeira-clara-Branco-9371-0487601-2.jpg"
+        ]
+      }
+    },
+    {
+      "id": "50",
+      "sku": "1007587 ",
+      "title": "Lia Grafite Chair",
+      "category": "Chairs",
+      "tags": [
+        "Dining Room",
+        "Dining Chairs",
+        "Set of Tables and Dining Chairs"
+      ],
+      "normalPrice": 368.96,
+      "salePrice": 175,
+      "discountPercentage": 0.3,
+      "new": false,
+      "description": {
+        "short": "Iron structure with black epoxy paint and the graphite color of the Linen covering, it also accommodates excellently, as it has a seat and back upholstered in foam of ideal densities to accommodate each specific part of the body.",
+        "long": "With a contemporary design that flirts with the minimalist style, the Lia Chair will look incredible in your home style. In addition to beautifying the environment, thanks to the iron structure with black epoxy paint and the graphite color of the linen covering, it also accommodates excellently, as it has a seat and back upholstered in foam with ideal densities to accommodate each specific part of the body. Versatile, this piece can be used in different environments, from the Dining Room to the Living room or office - the hollow structure is sure to bring extra charm to your corner."
+      },
+      "colors": [
+        {
+          "name": "Red",
+          "hex": "#36353A"
+        },
+        {
+          "name": "Pink",
+          "hex": "#C59687"
+        },
+        {
+          "name": "White",
+          "hex": "#ACAAAE"
+        }
+      ],
+      "sizes": ["L", "XL", "XS"],
+      "rating": 4.5,
+      "images": {
+        "mainImage": "https://static.mobly.com.br/p/Keva-Cadeira-Lia-Grafite-e-Preta-6153-0579301-2.jpg",
+        "gallery": [
+          "https://static.mobly.com.br/p/Keva-Cadeira-Lia-Grafite-e-Preta-6063-0579301-1.jpg",
+          "https://static.mobly.com.br/p/Keva-Cadeira-Lia-Rosa-e-Preta-6047-2579301-1.jpg",
+          "https://static.mobly.com.br/p/Keva-Cadeira-Lia-Azul-e-Preta-6038-3579301-1.jpg"
+        ]
+      }
+    },
+    {
+      "id": "51",
+      "sku": "872147",
+      "title": "Anah Desk 1 GV Freijó and Black",
+      "category": "Tables",
+      "tags": ["Tables", "Office", "Study"],
+      "normalPrice": 532.99,
+      "salePrice": 377.96,
+      "discountPercentage": 0.29,
+      "new": true,
+      "description": {
+        "short": "The Anah Desk is made of 25mm MDF, 24mm MDF top, 25mm MDF base, 1 drawer with metal slides, 2 fixed feet and matte finish",
+        "long": "The Anah Desk is a great ally for your work or study hours. With ample space on the top, it allows you to accommodate essential items for your routine, such as a notebook, notebook, stationery and even a stuff holder, while the drawer is essential for keeping smaller objects always at hand. Versatile, the piece has an industrial look that highlights the black structure and the woody finish top, forming the ideal combo to be inserted into any decor, as it matches everything and also brings extra charm to the space. Now, in addition to being functional, your home office will be full of style and good taste!"
+      },
+      "colors": [
+        {
+          "name": "Oak",
+          "hex": "#de9864"
+        },
+        {
+          "name": "Black",
+          "hex": "#000000"
+        }
+      ],
+      "sizes": ["L", "XL"],
+      "rating": 5,
+      "images": {
+        "mainImage": "https://static.mobly.com.br/p/Pradel-Escrivaninha-Anah-1-GV-FreijC3B3-e-Preta-0162-467309-1.jpg",
+        "gallery": [
+          "https://static.mobly.com.br/p/Pradel-Escrivaninha-Anah-1-GV-FreijC3B3-e-Preta-0164-467309-2.jpg",
+          "https://static.mobly.com.br/p/Pradel-Escrivaninha-Anah-1-GV-FreijC3B3-e-Preta-0165-467309-3.jpg",
+          "https://static.mobly.com.br/p/Pradel-Escrivaninha-Anah-1-GV-FreijC3B3-e-Preta-0162-467309-1.jpg",
+          "https://static.mobly.com.br/p/Pradel-Escrivaninha-Anah-1-GV-FreijC3B3-e-Preta-0164-467309-2.jpg"
+        ]
+      }
+    },
+    {
+      "id": "52",
+      "sku": "1136791",
+      "title": "Honey and White Studio Desk 150 cm",
+      "category": "Tables",
+      "tags": ["Tables", "Office", "Study"],
+      "normalPrice": 469.99,
+      "salePrice": 240.24,
+      "discountPercentage": 0.48,
+      "new": true,
+      "description": {
+        "short": "The Studio Desk has a steel structure, a 30mm MDP top and a matte finish.",
+        "long": "Structured in steel and MDP, the beautiful Studio Desk is perfect for your study or work corner. With great space on the top, the piece fulfills the function very well of accommodating a notebook and other essential items for your routine, such as a lamp and pen holder. In addition to functionality, the clean design with a sober and timeless tone gives the room a minimalist look and makes it easy to combine with other home office furniture. Then, just buy the perfect chair and enjoy your productive space."
+      },
+      "colors": [
+        {
+          "name": "Wood",
+          "hex": "#b9957d"
+        },
+        {
+          "name": "White",
+          "hex": "#ffffff"
+        }
+      ],
+      "sizes": ["L", "XL"],
+      "rating": 5,
+      "images": {
+        "mainImage": "https://static.mobly.com.br/p/Modern-Escrivaninha-Studio-Mel-e-Branca-150-cm-6396-3970711-1.jpg",
+        "gallery": [
+          "https://static.mobly.com.br/p/Modern-Escrivaninha-Studio-Mel-e-Branca-150-cm-6398-3970711-2.jpg",
+          "https://static.mobly.com.br/p/Modern-Escrivaninha-Studio-Mel-e-Branca-150-cm-6399-3970711-3.jpg",
+          "https://static.mobly.com.br/p/Modern-Escrivaninha-Studio-Mel-e-Branca-150-cm-6400-3970711-4.jpg",
+          "https://static.mobly.com.br/p/Modern-Escrivaninha-Studio-Mel-e-Branca-150-cm-6401-3970711-5.jpg"
+        ]
+      }
+    },
+    {
+      "id": "53",
+      "sku": "327761",
+      "title": "Mendes 2 GV White Desk",
+      "category": "Tables",
+      "tags": ["Tables", "Office", "Study"],
+      "normalPrice": 399.99,
+      "salePrice": 224.96,
+      "discountPercentage": 0.43,
+      "new": true,
+      "description": {
+        "short": "Mendes Desk",
+        "long": "A good desk is essential for anyone who studies or works from home. With a spacious top to accommodate a notebook, notebook, lamp and other essential materials for your routine, the Mendes model also has drawers for those smaller objects that can get lost if they become loose. While all this functionality makes everyday life more practical, the design makes it more beautiful: classic color, simple structure and details that make the decoration even more special and tasteful, just the way you deserve."
+      },
+      "colors": [
+        {
+          "name": "White",
+          "hex": "#ffffff"
+        }
+      ],
+      "sizes": ["XS", "S"],
+      "rating": 5,
+      "images": {
+        "mainImage": "https://static.mobly.com.br/p/Mobly-Escrivaninha-Mendes-2-GV-Branca-8175-280523-1.jpg",
+        "gallery": [
+          "https://static.mobly.com.br/p/Mobly-Escrivaninha-Mendes-2-GV-Branca-6145-280523-2.jpg",
+          "https://static.mobly.com.br/p/Mobly-Escrivaninha-Mendes-2-GV-Branca-2420-280523-3.jpg",
+          "https://static.mobly.com.br/p/Mobly-Escrivaninha-Mendes-2-GV-Branca-6166-280523-4.jpg",
+          "https://static.mobly.com.br/p/Mobly-Escrivaninha-Mendes-2-GV-Branca-6149-280523-5.jpg"
+        ]
+      }
+    },
+    {
+      "id": "54",
+      "sku": "1007565",
+      "title": "Studio Carvalho and Black Desk 180 cm",
+      "category": "Desks/Computer Tables",
+      "tags": ["Office", "Furniture"],
+      "normalPrice": 665.99,
+      "salePrice": 357.24,
+      "discountPercentage": 0.46,
+      "new": true,
+      "description": {
+        "short": "Studio Carvalho and Black Desk 180 cm",
+        "long": "Color tone may vary depending on the manufacturer's batch and/or your monitor settings. Merely illustrative images. Cashback: Within 7 days you will receive, via SMS, a bonus to be used on your next purchase on the Mobly website. Check the regulations here."
+      },
+      "colors": [
+        {
+          "name": "Wood",
+          "hex": "#654321"
+        }
+      ],
+      "sizes": ["M", "L"],
+      "rating": 4.9,
+      "images": {
+        "mainImage": "https://static.mobly.com.br/p/Compace-Escrivaninha-Studio-Carvalho-e-Preta-180-cm-3911-8279301-1.jpg",
+        "gallery": [
+          "https://static.mobly.com.br/p/Compace-Escrivaninha-Studio-Carvalho-e-Preta-180-cm-3913-8279301-2.jpg",
+          "https://static.mobly.com.br/p/Compace-Escrivaninha-Studio-Carvalho-e-Preta-180-cm-3914-8279301-3.jpg",
+          "https://static.mobly.com.br/p/Compace-Escrivaninha-Studio-Carvalho-e-Preta-180-cm-3915-8279301-4.jpg",
+          "https://static.mobly.com.br/p/Compace-Escrivaninha-Studio-Carvalho-e-Preta-180-cm-3917-8279301-5.jpg"
+        ]
+      }
+    },
+    {
+      "id": "55",
+      "sku": "1136819",
+      "title": "Desk with Bookshelf Studio Honey and White 150x75 cm",
+      "category": "Desks/Computer Tables",
+      "tags": ["Office", "Furniture"],
+      "normalPrice": 689.99,
+      "salePrice": 343.74,
+      "discountPercentage": 0.5,
+      "new": true,
+      "description": {
+        "short": "Desk with Bookshelf Studio Honey and White 150x75 cm",
+        "long": "Color tone may vary depending on the manufacturer's batch and/or your monitor settings. Merely illustrative images. Cashback: Within 7 days you will receive, via SMS, a bonus to be used on your next purchase on the Mobly website. Check the regulations here."
+      },
+      "colors": [
+        {
+          "name": "Honey and White",
+          "hex": "#D2B48C"
+        }
+      ],
+      "sizes": ["M", "L"],
+      "rating": 4.9,
+      "images": {
+        "mainImage": "https://static.mobly.com.br/p/Modern-Escrivaninha-com-Estante-Studio-Mel-e-Branca-150x75-cm-6751-1280711-1.jpg",
+        "gallery": [
+          "https://static.mobly.com.br/p/Modern-Escrivaninha-com-Estante-Studio-Mel-e-Branca-150x75-cm-6752-1280711-2.jpg",
+          "https://static.mobly.com.br/p/Modern-Escrivaninha-com-Estante-Studio-Mel-e-Branca-150x75-cm-6753-1280711-3.jpg",
+          "https://static.mobly.com.br/p/Modern-Escrivaninha-com-Estante-Studio-Mel-e-Branca-150x75-cm-6754-1280711-4.jpg",
+          "https://static.mobly.com.br/p/Modern-Escrivaninha-com-Estante-Studio-Mel-e-Branca-150x75-cm-6755-1280711-5.jpg"
+        ]
+      }
+    },
+    {
+      "id": "56",
+      "sku": "1034291",
+      "title": "Old 2 GV Nature Desk",
+      "category": "Desks/Computer Tables",
+      "tags": ["Office", "Furniture"],
+      "normalPrice": 759.99,
+      "salePrice": 467.96,
+      "discountPercentage": 0.38,
+      "new": true,
+      "description": {
+        "short": "Old 2 GV Nature Desk",
+        "long": "Color tone may vary depending on the manufacturer's batch and/or your monitor settings. Merely illustrative images. Cashback: Within 7 days you will receive, via SMS, a bonus to be used on your next purchase on the Mobly website. Check the regulations here."
+      },
+      "colors": [
+        {
+          "name": "Nature",
+          "hex": "#A0522D"
+        }
+      ],
+      "sizes": ["M", "L"],
+      "rating": 5,
+      "images": {
+        "mainImage": "https://static.mobly.com.br/p/Tebarrot-Escrivaninha-Old-2-GV-Nature-8886-2056601-1.jpg",
+        "gallery": [
+          "https://static.mobly.com.br/p/Tebarrot-Escrivaninha-Old-2-GV-Nature-8887-2056601-2.jpg",
+          "https://static.mobly.com.br/p/Tebarrot-Escrivaninha-Old-2-GV-Nature-8888-2056601-3.jpg",
+          "https://static.mobly.com.br/p/Tebarrot-Escrivaninha-Old-2-GV-Nature-8889-2056601-4.jpg",
+          "https://static.mobly.com.br/p/Tebarrot-Escrivaninha-Old-2-GV-Nature-8886-2056601-1.jpg"
+        ]
+      }
+    },
+    {
+      "id": "57",
+      "sku": "1066131",
+      "title": "Wood 1 GV White and Brown Desk",
+      "category": "Desks/Computer Tables",
+      "tags": ["Office", "Furniture"],
+      "normalPrice": 659.99,
+      "salePrice": 386.96,
+      "discountPercentage": 0.41,
+      "new": true,
+      "description": {
+        "short": "Wood 1 GV White and Brown Desk",
+        "long": "Color tone may vary depending on the manufacturer's batch and/or your monitor settings. Merely illustrative images. Cashback: Within 7 days you will receive, via SMS, a bonus to be used on your next purchase on the Mobly website. Check the regulations here."
+      },
+      "colors": [
+        {
+          "name": "White and Brown",
+          "hex": "#FFFFFF"
+        },
+        {
+          "name": "Brown",
+          "hex": "#8B4513"
+        }
+      ],
+      "sizes": ["M", "L"],
+      "rating": 5,
+      "images": {
+        "mainImage": "https://static.mobly.com.br/p/Fellicci-Moveis-Escrivaninha-Wood-1-GV-Branca-e-Marrom-6058-4809901-1.jpg",
+        "gallery": [
+          "https://static.mobly.com.br/p/Fellicci-Moveis-Escrivaninha-Wood-1-GV-Branca-e-Marrom-6059-4809901-2.jpg",
+          "https://static.mobly.com.br/p/Fellicci-Moveis-Escrivaninha-Wood-1-GV-Branca-e-Marrom-6060-4809901-3.jpg",
+          "https://static.mobly.com.br/p/Fellicci-Moveis-Escrivaninha-Wood-1-GV-Branca-e-Marrom-6061-4809901-4.jpg",
+          "https://static.mobly.com.br/p/Fellicci-Moveis-Escrivaninha-Wood-1-GV-Branca-e-Marrom-6058-4809901-1.jpg"
+        ]
+      }
+    },
+    {
+      "id": "58",
+      "sku": "1034292",
+      "title": "California Nature Desk",
+      "category": "Desks/Computer Tables",
+      "tags": ["Office", "Furniture"],
+      "normalPrice": 609.99,
+      "salePrice": 341.96,
+      "discountPercentage": 0.43,
+      "new": true,
+      "description": {
+        "short": "California Nature Desk",
+        "long": "Color tone may vary depending on the manufacturer's batch and/or your monitor settings. Merely illustrative images. Cashback: Within 7 days you will receive, via SMS, a bonus to be used on your next purchase on the Mobly website. Check the regulations here."
+      },
+      "colors": [
+        {
+          "name": "Nature",
+          "hex": "#A0522D"
+        }
+      ],
+      "sizes": ["S", "M"],
+      "rating": 4.8,
+      "images": {
+        "mainImage": "https://static.mobly.com.br/p/Tebarrot-Escrivaninha-CalifC3B3rnia-Nature-8882-3056601-1.jpg",
+        "gallery": [
+          "https://static.mobly.com.br/p/Tebarrot-Escrivaninha-CalifC3B3rnia-Nature-8883-3056601-2.jpg",
+          "https://static.mobly.com.br/p/Tebarrot-Escrivaninha-CalifC3B3rnia-Nature-8883-3056601-3.jpg",
+          "https://static.mobly.com.br/p/Tebarrot-Escrivaninha-CalifC3B3rnia-Nature-8884-3056601-4.jpg",
+          "https://static.mobly.com.br/p/Tebarrot-Escrivaninha-CalifC3B3rnia-Nature-8885-3056601-5.jpg"
+        ]
+      }
+    },
+    {
+      "id": "59",
+      "sku": "1134543",
+      "title": "Prism 1 PT 1 GV Black and Cinnamon Desk",
+      "category": "Desks/Computer Tables",
+      "tags": ["Office", "Furniture"],
+      "normalPrice": 959.99,
+      "salePrice": 562.37,
+      "discountPercentage": 0.41,
+      "new": true,
+      "description": {
+        "short": "Prism 1 PT 1 GV Black and Cinnamon Desk",
+        "long": "Color tone may vary depending on the manufacturer's batch and/or your monitor settings. Merely illustrative images. Cashback: Within 7 days you will receive, via SMS, a bonus to be used on your next purchase on the Mobly website. Check the regulations here."
+      },
+      "colors": [
+        {
+          "name": "Black and Cinnamon",
+          "hex": "#000000"
+        },
+        {
+          "name": "Cinnamon",
+          "hex": "#8B4513"
+        }
+      ],
+      "sizes": ["S", "M", "L"],
+      "rating": 0,
+      "images": {
+        "mainImage": "https://static.mobly.com.br/p/Modern-Escrivaninha-Prism-1-PT-1-GV-Preta-e-Cinamomo-5196-6358611-1.jpg",
+        "gallery": [
+          "https://static.mobly.com.br/p/Modern-Escrivaninha-Prism-1-PT-1-GV-Preta-e-Cinamomo-5197-6358611-2.jpg",
+          "https://static.mobly.com.br/p/Modern-Escrivaninha-Prism-1-PT-1-GV-Preta-e-Cinamomo-5198-6358611-3.jpg",
+          "https://static.mobly.com.br/p/Modern-Escrivaninha-Prism-1-PT-1-GV-Preta-e-Cinamomo-5199-6358611-4.jpg",
+          "https://static.mobly.com.br/p/Modern-Escrivaninha-Prism-1-PT-1-GV-Preta-e-Cinamomo-5200-6358611-5.jpg"
+        ]
+      }
+    },
+    {
+      "id": "60",
+      "sku": "198569",
+      "title": "White and Almond Mega Office Desk",
+      "category": "Desks/Computer Tables",
+      "tags": ["Office", "Furniture"],
+      "normalPrice": 687.99,
+      "salePrice": 442.74,
+      "discountPercentage": 0.35,
+      "new": true,
+      "description": {
+        "short": "White and Almond Mega Office Desk",
+        "long": "Color tone may vary depending on the manufacturer's batch and/or your monitor settings. Merely illustrative images. Cashback: Within 7 days you will receive, via SMS, a bonus to be used on your next purchase on the Mobly website. Check the regulations here."
+      },
+      "colors": [
+        {
+          "name": "White",
+          "hex": "#FFFFFF"
+        },
+        {
+          "name": "Almond",
+          "hex": "#D2B48C"
+        }
+      ],
+      "sizes": ["M", "L"],
+      "rating": 4.9,
+      "images": {
+        "mainImage": "https://static.mobly.com.br/p/Modern-Escrivaninha-Mega-Office-Branca-e-AmC3AAndoa-8175-198491-1.jpg",
+        "gallery": [
+          "https://static.mobly.com.br/p/Modern-Escrivaninha-Mega-Office-Branca-e-AmC3AAndoa-9187-198491-2.jpg",
+          "https://static.mobly.com.br/p/Modern-Escrivaninha-Mega-Office-Branca-e-AmC3AAndoa-8175-198491-3.jpg",
+          "https://static.mobly.com.br/p/Modern-Escrivaninha-Mega-Office-Branca-e-AmC3AAndoa-8175-198491-4.jpg",
+          "https://static.mobly.com.br/p/Modern-Escrivaninha-Mega-Office-Branca-e-AmC3AAndoa-8175-198491-5.jpg"
+        ]
+      }
+    }
+  ],
+  "newsletters": [
+    {
+      "id": "1",
+      "email": "teste@gmail.com"
+    }
+  ],
+  "messages": [
+    {
+      "id": "1",
+      "name": "teste",
+      "email": "teste@gmail.com",
+      "subject": "teste",
+      "message": "teste"
+    }
+  ]
+}
